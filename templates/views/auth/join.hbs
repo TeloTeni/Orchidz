@@ -1,0 +1,43 @@
+<div class="container">
+  <div class="panel panel-primary">
+  <div class="panel-heading">Create An Account</div>
+  <div class="panel-body">
+  <div class="col-md-6">
+    <form action="/join" method="post" class="form horizontal">
+      <fieldset>
+      <div class="form-group required">
+      <label class="col-md-4 control-label">User Name*</label>
+      <div class="col-md-8">
+        <input class="form-control" id="username" placeholder="Pick a user name" name="username" type="text" value="{{form.username}}">
+      </div>
+      </div>
+
+      <div class="form-group required">
+      <label class="col-md-4 control-label">Email Address*</label>
+      <div class="col-md-8">
+        <input class="form-control" id="mail" placeholder="Email address" name="email" type="text" value="{{form.email}}">
+      </div>
+      </div>
+
+      <div class="form-group required">
+      <label class="col-md-4 control-label">Password*</label>
+      <div class="col-md-8">
+        <input class="form-control" id="password"  placeholder="password" name="password" type="password">
+      </div>
+      </div>
+
+      <div class="form-group">
+      <label class="col-md-4 control-label"></label>
+      <div class="col-md-8">
+        <div style="clear:both"></div>
+        <button class="btn btn-primary" type="submit">Join</button>
+      </div>
+      </div>
+      </fieldset>
+    </form>
+  </div>
+  </div>
+  </div>
+
+
+</div>

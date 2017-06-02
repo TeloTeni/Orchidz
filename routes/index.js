@@ -40,8 +40,16 @@ exports = module.exports = function (app) {
 	app.get('/products', routes.views.products);
 	app.get('/gallery', routes.views.gallery);
 	app.all('/contact', routes.views.contact);
+	app.get('/search', routes.views.search);
 
+// additional authentification link
+	app.all('/join', routes.views.auth.join);
+	app.all('/signin', routes.views.auth.signin);
+	app.get('/signout', routes.views.auth.signout);
+	//app.all('/forgotpassword', routes.views.auth.forgotpassword);
+	//app.all('/resetpassword/:key', routes.views.auth.resetpassword);
+//app.all('/myproducts*', middleware.requireUser);
 	// NOTE: To protect a route so that only admins can see it, use the requireUser middleware:
 	// app.get('/protected', middleware.requireUser, routes.views.protected);
-
+app.all('/products', middleware.requireUser, routes.views.addproducts);
 };

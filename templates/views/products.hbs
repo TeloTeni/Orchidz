@@ -1,1 +1,34 @@
-LIST OF PRODUCTS
+<div class ="container">
+  <h1>Orchids</h1>
+  <div class ="search-results">
+    <table class="table table-hover">
+      <tr>
+                 <th>
+                     Name
+                 </th>
+                 <th>
+                     Vendor
+                 </th>
+                 <th>
+                     Price
+                 </th>
+             </tr>
+                 {{#each products}}
+             <tr>
+                 <td>
+                     {{title}}
+                 </td>
+                  <td>
+                     {{vendor}}
+                  </td>
+                  <td>
+                     {{price}}
+                  </td>
+             </tr>
+                     {{/each}}
+    </table>
+  </div>
+  <div>
+    <button type="submit" class="btn btn-default">Add new products</button>
+  </div>
+</div>

@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="panel panel-primary">
+      <div class="panel-heading"> Search Results</div>
+      <div class="panel-body">
+        <p></p>
+        <!-- Table -->
+        <table class="table table striped">
+
+          <tr>
+                     <th>
+                         Name
+                     </th>
+                     <th>
+                         Vendor
+                     </th>
+                     <th>
+                         Price
+                     </th>
+                 </tr>
+                     {{#each products}}
+                 <tr>
+                     <td>
+                         {{title}}
+                     </td>
+                      <td>
+                         {{vendor}}
+                      </td>
+                      <td>
+                         {{price}}
+                      </td>
+                 </tr>
+                         {{/each}}
+
+        </table>
+
+  </div>
+
+</div>
+
+</div>
