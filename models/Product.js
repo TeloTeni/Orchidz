@@ -11,10 +11,10 @@ var Product = new keystone.List('Product',{
 
 Product.add({
   title: {type: String, require: true},
-  // need change on local files
+  // TODO need change on local files
   //image: {type: Types.CloudinaryImage},
   size: {type: String},
-  vendor: {type: String}, // ! have to change it to select option list late
+  vendor: {type: String}, // TODO have to change it to select option list late
   price: {type: Number},//?
   //discription: {type: String},
   url: {type: Types.Url},

@@ -16,7 +16,7 @@ locals.data = {
 
 //Load the current products
 view.on('init', function(next){
-  console.log('search keywords = ' + locals.filters.keywords);
+  console.log('search keywords = ' + locals.filters.keywords); //TODO log file for search words analitic
   locals.data.keywords = locals.filters.keywords;
 
   //search... trying without index
@@ -33,6 +33,7 @@ view.on('init', function(next){
     });
 
 });
+//TODO pagination
 //render view
 view.render('search');
 };
