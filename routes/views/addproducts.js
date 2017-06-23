@@ -11,19 +11,20 @@ locals.section = 'addproducts';
 
 var jsonNewProducts = JSON.parse(fs.readFileSync('./test_doc/products.json', 'utf8'));
 var addProduct ;// ??
-var qtyNewProducts = 0;
+var i = 0;
 //console.log(jsonNewProducts);
 var Product = keystone.list('Product');
-console.log(jsonNewProducts[0]);
-//Product.insertMany(jsonNewProducts).then()
+console.log('loop');
+
  for (var item in jsonNewProducts){
-  addProducts = new Product.model(item);
-  addProducts.create().catch(function(err){
-     console.log(err.message);
-   });
-   qtyNewProducts =+1;
- };
-console.log(" Add " + qtyNewProducts + " new products");
+ addProducts = new Product.model(jsonNewProducts[item]); //was new Product.model(item)
+ qtyNewProducts =+1;
+ addProducts.save().catch(function(err){
+    console.log(err.message);
+  });
+  };
+
+console.log(" Add " + i + " new products");
 
 view.render('addproducts');
 };
