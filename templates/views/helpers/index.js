@@ -199,6 +199,7 @@ module.exports = function () {
 	// might be a ghost helper
 	// used for pagination urls on blog
 	_helpers.pageUrl = function (pageNumber, options) {
+		// return '/search?page=' + pageNumber;
 		return '/blog?page=' + pageNumber;
 	};
 

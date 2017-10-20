@@ -2,32 +2,87 @@
 var keystone = require('keystone');
 var fs = require('fs');
 
+
+
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
+// var vendors = ['Reollke', 'Schwerter', 'OrchClub'];
 
 var locals = res.locals;
-// locals.section is for nav menu
-locals.section = 'addproducts';
+// // locals.section is for nav menu
+// locals.section = 'addproducts';
+var vendor;
+var vendorLow;
+var country = "Germany";
+//console.log(vendorLow);;
+var qfiles;
 
-var jsonNewProducts = JSON.parse(fs.readFileSync('./test_doc/products.json', 'utf8'));
-var addProduct ;// ??
-var i = 0;
-//console.log(jsonNewProducts);
-var Product = keystone.list('Product');
-console.log('loop');
 
- for (var item in jsonNewProducts){
- addProducts = new Product.model(jsonNewProducts[item]); //was new Product.model(item)
- qtyNewProducts =+1;
- addProducts.save().catch(function(err){
-    console.log(err.message);
-  });
+view.on('post', function(next){
+  vendor = req.body.vendor;
+  vendorLow = vendor.toLowerCase();
+
+  function getDir(path,callback){
+  fs.readdir(path, function(err, content){
+    callback(null, content)
+    });
   };
 
-console.log(" Add " + i + " new products");
+  getDir('./public/vendors/' + vendorLow, function(err, content){
+    qfiles = content;
+    console.log('in getDir ' + qfiles.length);
+    var dataAll = [];
+    var data = [];
+    for (item in qfiles){
+    var dir = './public/vendors/' + vendorLow + '/' + qfiles[item];
+    console.log(dir);
+      data = JSON.parse(fs.readFileSync(dir, 'utf8'));
+      console.log('data parsed');
+
+      dataAll = dataAll.concat(data);
+
+  };
+console.log('Itemes:' + dataAll.length);
+    var Product = keystone.list('Product');
+    for (var item = 0; item < dataAll.length; item++){
+    dataAll[item].vendor = vendor;
+    dataAll[item].country = country;
+    addProducts = new Product.model(dataAll[item]); //was new Product.model(item)
+    addProducts.save().catch(function(err){
+        console.log(err.message);
+      });
+
+  //  fs.writeFile('./public/vendors/'+ vendorLow + 'All.json', JSON.stringify(dataAll));
+};
+console.log( 'Result: ' + item + ' products of ' + vendor + ' added');
+});
+
+  next();
+});
+
+//
+// view.on('post', function(){
+//
+// var jsonNewProducts = JSON.parse(fs.readFileSync('./public/vendors/' + vendorLow + 'All.json', 'utf8'));
+//
+// var Product = keystone.list('Product');
+// for (var item = 0; item < jsonNewProducts.length; item++){
+// jsonNewProducts[item].vendor = vendor;
+// addProducts = new Product.model(jsonNewProducts[item]); //was new Product.model(item)
+// addProducts.save().catch(function(err){
+//     console.log(err.message);
+//   });
+// };
+
+// console.log( 'Result: ' + item + ' products of ' + vendor + 'added');
+//
+// next();
+//
+//
+// });
 
 view.render('addproducts');
-};
+
 //? add body.parser?
 // copy file methods or upload
 
@@ -39,3 +94,4 @@ view.render('addproducts');
 //      .catch(function(err){
 //      })
 //}
+};

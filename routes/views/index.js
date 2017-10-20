@@ -13,7 +13,7 @@ exports = module.exports = function (req, res) {
 
 
 //TODO: add table with last ten plants and button "all new plants" (for today date)
-  view.query('products', keystone.list('Product').model.find());
+  view.query('products', keystone.list('Product').model.find().limit(10));
 
 	// Render the view
 	view.render('index');

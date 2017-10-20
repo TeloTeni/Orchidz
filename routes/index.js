@@ -39,14 +39,26 @@ exports = module.exports = function (app) {
 	app.get('/blog/post/:post', routes.views.post);
 	app.get('/products', routes.views.products);
 	app.all('/addproducts', routes.views.addproducts);
-	app.get('/gallery', routes.views.gallery);
+	//app.get('/gallery', routes.views.gallery);
 	app.all('/contact', routes.views.contact);
 	app.get('/search', routes.views.search);
-
+	app.all('/roellke', routes.views.vendors.roellke);
+	app.all('/wlodarczyk', routes.views.vendors.wlodarczyk);
+	app.all('/elsner', routes.views.vendors.elsner);
+	app.all('/schwerter', routes.views.vendors.schwerter);
+	app.all('/wichmann', routes.views.vendors.wichmann);
+	app.all('/asendorfer', routes.views.vendors.asendorfer);
+	app.all('/akerne', routes.views.vendors.akerne);
+	app.all('/msb', routes.views.vendors.msb);
+	app.all('/karge', routes.views.vendors.karge);
+	app.all('/wossner', routes.views.vendors.wossner);
+	app.all('/hennis', routes.views.vendors.hennis);
+	app.all('/currlin', routes.views.vendors.currlin);
+	app.all('/blumenjanke', routes.views.vendors.blumenjanke);
 // additional authentification link
-	app.all('/join', routes.views.auth.join);
-	app.all('/signin', routes.views.auth.signin);
-	app.get('/signout', routes.views.auth.signout);
+	//app.all('/join', routes.views.auth.join);
+	//app.all('/signin', routes.views.auth.signin);
+	//app.get('/signout', routes.views.auth.signout);
 	//app.all('/forgotpassword', routes.views.auth.forgotpassword);
 	//app.all('/resetpassword/:key', routes.views.auth.resetpassword);
 //app.all('/myproducts*', middleware.requireUser);
