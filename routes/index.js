@@ -55,6 +55,7 @@ exports = module.exports = function (app) {
 	app.all('/hennis', routes.views.vendors.hennis);
 	app.all('/currlin', routes.views.vendors.currlin);
 	app.all('/blumenjanke', routes.views.vendors.blumenjanke);
+	app.all('/plant', routes.views.plant);
 // additional authentification link
 	//app.all('/join', routes.views.auth.join);
 	//app.all('/signin', routes.views.auth.signin);

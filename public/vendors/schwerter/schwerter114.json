@@ -1,100 +1,131 @@
 [
 
   {
-    "title": " Aerides Korat Koki ",
-    "price": "14.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3332&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Aerides Korat Koki",
+    "price": "14.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3332&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/aerides%20korat%20koki.jpg"
   },
   {
-    "title": " Hygrochilus parishii ",
-    "price": "9.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3250&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Hygrochilus parishii",
+    "price": "9.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3250&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vandopsis%20parishii.jpg"
   },
   {
-    "title": " Neostylis Lou Sneary Blue ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6818&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Neostylis Lou Sneary Blue",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6818&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/neostylis%20lou%20snearly%20-%20rhy.%20coelestis%20blue-1.jpg"
   },
   {
-    "title": " Ren. philippinensis x Rhynchostilis coelestis ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=5742&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Ren. philippinensis x Rhynchostilis coelestis",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=5742&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/ren.philippinensis-rhy.coelestis.jpg"
   },
   {
-    "title": " Rhynchocentrum Lilac Blossum ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=2275&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Rhynchocentrum Lilac Blossum",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=2275&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/rhctm.%20lilac%20bloomsom.jpg"
   },
   {
-    "title": " Rhynchostylis coelestis 'pink' ",
-    "price": "22.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=2487&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Rhynchostylis coelestis 'pink'",
+    "price": "22.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=2487&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/rhynchostylis%20coelestis%20pink.jpg"
   },
   {
-    "title": " Rhynchostylis gigantea Peach ",
-    "price": "24.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3256&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Rhynchostylis gigantea 'Pri'",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=5569&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/rhynchostylis%20gigantea%20pri.jpg"
+  },
+  {
+    "title": "Rhynchostylis gigantea Peach",
+    "price": "24.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3256&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/rhy.gigantea%20_orange_.jpg"
   },
   {
-    "title": " Rynchorides Bangkok Sunset ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3431&osCsid=007no5nl2b95jfp38649lgvup2",
+    "title": "Rynchorides Bangkok Sunset",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3431&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/rhrds.%20bangkok%20sunset.jpg"
   },
   {
-    "title": " Vanda Boonyarit Daimond ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=4519&osCsid=007no5nl2b95jfp38649lgvup2",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda_boonyarit_diamond.jpg"
-  },
-  {
-    "title": " Vanda coerulea ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=5837&osCsid=007no5nl2b95jfp38649lgvup2",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda%20coerulea-1.jpg"
+    "title": "Vanda Adisak Happiness",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6933&osCsid=j8klnbp57ol5e7vqve15lhq7n0",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/adisak.jpg"
   }
 ,
   {
-    "title": " Vanda Fuchs Delight x Dr. Anek ",
-    "price": "19.95",
+    "title": "Vanda Boonyarit Daimond",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=4519&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda_boonyarit_diamond.jpg"
+  },
+  {
+    "title": "Vanda Chao Phraya Violet",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6934&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/chao%20phraya%201.jpg"
+  },
+  {
+    "title": "Vanda coerulescens",
+    "price": "9.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6683&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda%20coerulescens.jpg"
+  },
+  {
+    "title": "Vanda Fuchs Delight x Dr. Anek",
+    "price": "19.95 €",
     "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6910&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/v.%20fuch_s%20delight%20x%20v.%20docter%20anek.jpg"
   },
   {
-    "title": " Vanda Kulwadee Fragrance ",
-    "price": "19.95",
+    "title": "Vanda Kulwadee Fragrance",
+    "price": "19.95 €",
     "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=4158&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/v.%20kulwadee%20fragrance.jpg"
   },
   {
-    "title": " Vanda Ratchaburi Rouge Beauty ",
-    "price": "19.95",
+    "title": "Vanda Mamo x Vanda coerulea",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6935&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda%20mamo%20x%20vanda%20coerulea.jpg"
+  },
+  {
+    "title": "Vanda Ratchaburi Rouge Beauty",
+    "price": "19.95 €",
     "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=5693&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda_ratchaburi_rouge_beauty.jpg"
   },
   {
-    "title": " Vanda tessellata x Memoria Tienchai ",
-    "price": "19.95",
+    "title": "Vanda teres x Brightons Gold",
+    "price": "14.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6989&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/teres%20x%20brigthons%20gold1.jpg"
+  },
+  {
+    "title": "Vanda tessellata x Memoria Tienchai",
+    "price": "19.95 €",
     "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6428&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/1%20kein%20foto.jpg"
   },
   {
-    "title": " Vanda tricolor ",
-    "price": "12.95",
+    "title": "Vanda tricolor",
+    "price": "12.95 €",
     "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=3451&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/vanda%20tricolor-1.jpg"
-  },
+  }
+,
   {
-    "title": " Vanda Yano Blue ",
-    "price": "19.95",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6909&page=2&sort=2a",
+    "title": "Vanda Yano Blue",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=30&products_id=6909&page=3&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/va/v.%20yano%20blue.jpg"
   }
 ]

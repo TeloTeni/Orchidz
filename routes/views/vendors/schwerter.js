@@ -14,7 +14,10 @@ var x = Xray({
     },
     slice: function (value, start , end) {
       return typeof value === 'string' ? value.slice(start, end) : value
-    }
+    },
+    symbol: function (value, start , end) {
+    return typeof value === 'string' ? value = value + " €" : value
+    },
   }
 });
 
@@ -47,7 +50,7 @@ console.log('start');
 links.forEach(function(link, i){
 x(link, '.productListing-odd', [{
 title: 'td:nth-child(2) a | trim',
-price: 'td:nth-child(3) | trim | slice:0,-3 | trim',
+price: 'td:nth-child(3) | trim | slice:0,-3 | trim | symbol',
 url: 'td:nth-child(2) > a > a@href',
 image: 'td:nth-child(1) img@src'
 }])
@@ -58,7 +61,7 @@ image: 'td:nth-child(1) img@src'
 links.forEach(function(link, i){
 x(link, '.productListing-even', [{
 title: 'td:nth-child(2) a | trim',
-price: 'td:nth-child(3) | trim | slice:0,-3 | trim',
+price: 'td:nth-child(3) | trim | slice:0,-3 | trim | symbol',
 url: 'td:nth-child(2) > a > a@href',
 image: 'td:nth-child(1) img@src'
 }])

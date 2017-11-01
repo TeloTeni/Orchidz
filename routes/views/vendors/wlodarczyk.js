@@ -13,11 +13,14 @@ var x = Xray({
       return typeof value === 'string' ? value.slice(start, end) : value
     },
     replace: function (value, start , end) {
-      return typeof value === 'string' ? value.replace(/'EUR'/, "") : value
+      return typeof value === 'string' ? value.replace("EUR", "") : value
   },
     symbol: function (value, start , end) {
     return typeof value === 'string' ? value = value + " €" : value
 },
+    points: function (value, start , end) {
+    return typeof value === 'string' ? value.replace("...", "")  : value
+    },
   },
 });
 
@@ -55,11 +58,12 @@ view.on('init', function(next){
 console.log('start');
 links.forEach(function(link, i){
 x(link, '#bodyContent > div > div > div > div > div',[{
+//title: 'a@href:nth-of-type(1)',
 title: x('a@href', '.product_info_name'),
 url: 'a@href | trim',
 price: 'span | trim | slice: 3 | trim | symbol',
 image: 'img@src',
-description: '.product_teaser'
+description: '.product_teaser | points'
 }])
 .paginate('.pagination li.active + li > a@href')
 .write('./public/vendors/wlodarczyk/wlodarczyk' + i + '.json')
