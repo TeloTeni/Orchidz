@@ -16,6 +16,7 @@ var vendorLow;
 var country = "Germany";
 //console.log(vendorLow);;
 var qfiles;
+var dataAll = [];
 
 
 view.on('post', function(next){
@@ -31,7 +32,7 @@ view.on('post', function(next){
   getDir('./public/vendors/' + vendorLow, function(err, content){
     qfiles = content;
     console.log('in getDir ' + qfiles.length);
-    var dataAll = [];
+
     var data = [];
     for (item in qfiles){
       var dir = './public/vendors/' + vendorLow + '/' + qfiles[item];
@@ -42,35 +43,39 @@ view.on('post', function(next){
 
       dataAll = dataAll.concat(data);
     };
-    fs.writeFile('./public/vendors/'+ vendorLow + 'All.json', JSON.stringify(dataAll));
-
-console.log('Itemes:' + dataAll.length);
-  var dataCorrupted = [];
-  var itemCorrupted = 0;
-  var itemDB;
-  console.log('dataCorrupted is ' + dataCorrupted);
-
-    var Product = keystone.list('Product');
-    for (var item = 0; item < dataAll.length; item++){
-      //don't add to db products with no title - if
-      if(dataAll[item].title){
-    dataAll[item].vendor = vendor;
-    dataAll[item].country = country;
-    addProducts = new Product.model(dataAll[item]); //was new Product.model(item)
-    addProducts.save().catch(function(err){
-        console.log(err.message);
-      });
-    }else{
-      dataCorrupted = dataCorrupted.concat(dataAll[item]);
-      itemCorrupted = ++itemCorrupted;
-
-    };
-   };
-   itemDB = item - itemCorrupted;
-console.log( 'Result: All ' + item + ' products of ' + vendor + ' And ' + itemDB + ' added to DB');
-// file for corrupted itemes
-fs.writeFile('./public/vendors/'+ vendorLow + 'Corr.json', JSON.stringify(dataCorrupted, null, 2));
+    fs.writeFile('./public/vendors/'+ vendorLow + 'All.json', JSON.stringify(dataAll, null, 2));
+    console.log("to Json");
 });
+
+
+
+// console.log('Itemes:' + dataAll.length);
+//   var dataCorrupted = [];
+//   var itemCorrupted = 0;
+//   var itemDB;
+//   console.log('dataCorrupted is ' + dataCorrupted);
+//
+//     var Product = keystone.list('Product');
+//     for (var item = 0; item < dataAll.length; item++){
+//       //don't add to db products with no title - if
+//       if(dataAll[item].title){
+//     dataAll[item].vendor = vendor;
+//     dataAll[item].country = country;
+//     addProducts = new Product.model(dataAll[item]); //was new Product.model(item)
+//     addProducts.save().catch(function(err){
+//         console.log(err.message);
+//       });
+//     }else{
+//       dataCorrupted = dataCorrupted.concat(dataAll[item]);
+//       itemCorrupted = ++itemCorrupted;
+//
+//     };
+//    };
+//    itemDB = item - itemCorrupted;
+// console.log( 'Result: All ' + item + ' products of ' + vendor + ' And ' + itemDB + ' added to DB');
+// // file for corrupted itemes
+// fs.writeFile('./public/vendors/'+ vendorLow + 'Corr.json', JSON.stringify(dataCorrupted, null, 2));
+
 
   next();
 });

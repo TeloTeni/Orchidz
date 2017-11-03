@@ -82,14 +82,7 @@
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5586/D1E4/12FE/A4D3/4F43/0A48/3547/3953/Dendrobium_biloculare_1_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20151",
     "price": "19.90 €",
-    "description": "plants flowering size"
-  },
-  {
-    "title": "Dendrobium niveobarbatum",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/56EC/60BD/E5E6/C610/3C30/0A48/3548/A0E9/Dendrobium_niveobarbatum_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20402",
-    "price": "19.90 €",
-    "description": "import plants, flowering size / adult"
+    "description": "flowering / adult plant"
   },
   {
     "title": "Dendrobium phillipsii",
@@ -103,13 +96,6 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20345",
     "price": "12.00 €",
     "description": "young plants 5,5cm pot"
-  },
-  {
-    "title": "Dendrobium venustum",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/55A2/AC35/190D/5892/8BE2/0A48/3547/5128/Dendrobium_venustum_B_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20186",
-    "price": "16.00 €",
-    "description": "established import plants, flowering / adult"
   },
   {
     "title": "Encyclia cordigera rosea",
@@ -137,6 +123,13 @@
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5560/C974/21AE/117A/7DDA/0A48/3547/DC9A/Encyclia_tampensis_alba_B_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20111",
     "price": "18.00 €",
+    "description": "plants flowering size"
+  },
+  {
+    "title": "Epidendrum marmoratum",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/54E8/C05A/AFF2/0BBB/4AB5/0A48/3547/AF3F/Epidendrum_marmoratum_B_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/11752",
+    "price": "25.00 €",
     "description": "plants flowering size"
   },
   {
@@ -417,15 +410,15 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20732",
     "price": "9.90 €",
     "description": "young plants, 6 cm pot"
-  }
-,
+  },
   {
     "title": "Trichopilia rostrata",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/58EB/DA77/6C04/B9B4/CBBA/0A48/3548/5BFB/Trichopilia_rostrata_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20733",
     "price": "14.00 €",
     "description": "young plants 7cm pot"
-  },
+  }
+,
   {
     "title": "Sievekingia hirtzii",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/58FB/795B/EA99/E8E6/8317/0A48/3548/16B9/Sievekingia_hirtzii_m.JPG",
@@ -455,25 +448,11 @@
     "description": "import plants, flowering size"
   },
   {
-    "title": "Schoenorchis scolopendria",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/591D/D2AF/5748/8488/B594/0A48/3548/36D6/Schoenorchis_sclaopendria_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20775",
-    "price": "16.00 €",
-    "description": "established plants, flowering size"
-  },
-  {
     "title": "Dendrobium linearifolium",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/591D/D537/E25B/D0AD/A366/0A48/3548/A331/Dendrobium_linearifolium_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20777",
     "price": "16.00 €",
     "description": "plants flowering size"
-  },
-  {
-    "title": "Aeranthes ramosa",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/591D/D770/E20C/A915/8D82/0A48/3548/FB67/Aeranthes_ramosa_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20779",
-    "price": "16.00 €",
-    "description": "young plants 6cm pot"
   },
   {
     "title": "Baptistonia lietzei",
@@ -537,13 +516,6 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20810",
     "price": "14.00 €",
     "description": "flowering / adult plant"
-  },
-  {
-    "title": "Encyclia kundergraberi",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5933/0780/820F/3396/816F/0A48/3548/B947/Encyclia_kundergraberi_1_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20812",
-    "price": "20.00 €",
-    "description": "import plants, not established, flowering size"
   },
   {
     "title": "Catasetum charlesworthii x ornithoides",
@@ -616,13 +588,6 @@
     "description": "established plants"
   },
   {
-    "title": "Cymbidium goeringii variegated",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/597C/A491/5703/2ABB/98D4/0A48/3647/9FCD/Cymbidium_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20891",
-    "price": "15.00 €",
-    "description": "plants flowering size"
-  },
-  {
     "title": "Neofinetia falcata x Vanda teres var. alba",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/597F/82C8/0E25/9CAB/A588/0A48/3647/28D0/NFH_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20895",
@@ -670,13 +635,6 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20910",
     "price": "18.00 €",
     "description": "import plants, not established"
-  },
-  {
-    "title": "Epidendrum ciliare",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5999/AA00/6BFF/F010/AA56/0A48/3647/E86E/Epidendrum_ciliare_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20914",
-    "price": "22.00 €",
-    "description": "blooming size / adult"
   },
   {
     "title": "Epidendrum rousseauae",
@@ -763,39 +721,18 @@
     "description": "Panama import, divisions lenght 60 cm +"
   },
   {
-    "title": "Vanilla dreslerii",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CD/FE9B/5DF6/3955/D935/0A48/3647/C034/Vanilla_dresslerii_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20967",
-    "price": "14.00 €",
-    "description": "Panama import, divisions, length 60 cm +"
-  },
-  {
-    "title": "Pleurothallis janetiae",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/1FAD/119C/5CF0/BB37/0A48/3647/F801/Pleurothallis_jannetiae_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20969",
-    "price": "18.00 €",
-    "description": "Panama import, flowering size, potted in moss"
-  },
-  {
     "title": "Sobralia atropubescens",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/28E5/3E71/6977/6060/0A48/3647/6A7A/Sobralia_atropubescens_m.JPG",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/28E5/3E71/6977/6060/0A48/3647/6A7A/Sobralia_atropurpurea_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20971",
     "price": "22.00 €",
     "description": "Panama import, plants flowering size, not established"
   },
   {
     "title": "Kefersteinia parvilabris",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/2A3E/6785/2627/BBA4/0A48/3647/BC41/Kefersteinia_parvilabris_m.JPG",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/2A3E/6785/2627/BBA4/0A48/3647/BC41/Kefersteinia_parvilabris_B_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20973",
     "price": "16.00 €",
     "description": "Panama import, plants flowering size, not established"
-  },
-  {
-    "title": "Cycnoches aureum",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59CE/2AE0/09DC/A034/6687/0A48/3647/E4FF/Cycnoches_aureum_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20974",
-    "price": "22.00 €",
-    "description": "Panama import, adult plants, not established"
   },
   {
     "title": "Acostaea costaricensis",
@@ -803,27 +740,6 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20976",
     "price": "22.00 €",
     "description": "Panama import, plants flowering size,not established"
-  },
-  {
-    "title": "Vanda coerulea",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59D7/855E/235F/FDA9/C761/0A48/3647/4B54/Vanda_coerulea_B_1_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20982",
-    "price": "25.00 €",
-    "description": "flowering / adult plant"
-  },
-  {
-    "title": "Dendrobium formosum",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59D7/85F3/6A9A/58B1/517F/0A48/3647/47C5/Dendrobium_formosum_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20983",
-    "price": "16.00 €",
-    "description": "plant flowering size"
-  },
-  {
-    "title": "Dendrobium spectabile",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59D7/8665/1284/25F9/1B47/0A48/3647/00FF/Dendrobium_spectabile_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20984",
-    "price": "14.00 €",
-    "description": "established import plant"
   },
   {
     "title": "Mormodes fractiflexa",
@@ -838,5 +754,33 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20986",
     "price": "25.00 €",
     "description": "import plants, not established"
+  },
+  {
+    "title": "Scuticaria steelei",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59E0/760B/1293/8DC1/400A/0A48/3647/8A3F/Scuticaria_steelei_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21008",
+    "price": "25.00 €",
+    "description": "import plants established"
+  },
+  {
+    "title": "Dendrobium niveobarbatum",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/56EC/60BD/E5E6/C610/3C30/0A48/3548/A0E9/Dendrobium_niveobarbatum_N_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20402",
+    "price": "19.90 €",
+    "description": "plants flowering size"
+  },
+  {
+    "title": "Macradenia lutescens",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59E4/85EA/D7D1/E78C/395A/0A48/3647/CB2C/Macradenia_lutescens_B_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21014",
+    "price": "18.00 €",
+    "description": "flowering / adult plant"
+  },
+  {
+    "title": "Chysis limminghei",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59F9/E044/4989/39DD/5B9E/0A48/3647/A5FE/Chysis_limminghei_NB_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21021",
+    "price": "19.90 €",
+    "description": "flowering / adult plant"
   }
 ]

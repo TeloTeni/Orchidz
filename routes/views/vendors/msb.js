@@ -19,7 +19,6 @@ exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
 var locals = res.locals;
 var links = [
-'http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Categories/6',
 'http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Categories/9',
 'http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Categories/20',
 'http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Categories/2',

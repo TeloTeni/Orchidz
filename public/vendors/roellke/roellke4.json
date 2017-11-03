@@ -86,13 +86,6 @@
   }
 ,
   {
-    "title": "Cirrhopetalum eberhardtii",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/bulbophyllum/product/view/21/2696",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirrhopetalum-eberhardtii-011.jpg",
-    "price": "7,80 €",
-    "description": "young plant, 5,5cm pot"
-  },
-  {
     "title": "Cirrhopetalum ornatissimum",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/bulbophyllum/product/view/21/1579",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirr-ornatissimum-00.jpg",
@@ -105,6 +98,13 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirrhopetalum-pulchellum-purpureum-01.jpg",
     "price": "7,80 €",
     "description": "young plant, 5,5cm pot, can flower this size"
+  },
+  {
+    "title": "Cirrhopetalum rothschildianum",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/bulbophyllum/product/view/21/1592",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirrhopetalum-rothschildianum-00.jpg",
+    "price": "17,50 €",
+    "description": "flowering size, 10cm hanging pot"
   },
   {
     "title": "Cirrhopetalum trisetum",

@@ -26,19 +26,19 @@ var view = new keystone.View(req, res);
 var locals = res.locals;
 var links = ['http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=22&language=en',
 'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=21&language=en',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=21_39',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=27',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=29',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=38',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_28',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_28_36',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_43',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_33',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_33_35',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=41',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=25',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=25_37',
-'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=30'
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=21_39&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=27&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=29&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=38&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_28&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_28_36&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_43&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_33&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=42_33_35&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=41&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=25&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=25_37&language=en',
+'http://www.shop.schwerter-orchideenzucht.de/index.php?cPath=30&language=en'
 ];
 // var qfiles = [];
 // var files;

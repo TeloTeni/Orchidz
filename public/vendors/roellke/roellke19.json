@@ -1,6 +1,13 @@
 [
 
   {
+    "title": "Max. Neuberg™",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/maxillaria/product/view/67/1259",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_max-max-neuberg-00.jpg",
+    "price": "17,50 €",
+    "description": "flowering size, 11cm pot"
+  },
+  {
     "title": "Maxillaria atrosanguinea",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/maxillaria/product/view/67/1913",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_max-maxillaria-atrosanguinea-01.jpg",
@@ -48,12 +55,5 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_son-maxillaria-tenuifolia-1.jpg",
     "price": "16,50 €",
     "description": "flowering size, 11cm pot, good sized plants, Coconut orchid (fragrance)"
-  },
-  {
-    "title": "Maxillaria ubatubana",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/maxillaria/product/view/67/1951",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_max-maxillaria-ubatubana-01.jpg",
-    "price": "19,50 €",
-    "description": "flowering size, 10cm hanging pot"
   }
 ]

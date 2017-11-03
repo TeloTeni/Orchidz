@@ -78,20 +78,13 @@
     "description": "young plant, 5,5cm pot"
   },
   {
-    "title": "Cirrhopetalum eberhardtii",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/2664",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirrhopetalum-eberhardtii-011.jpg",
-    "price": "7,80 €",
-    "description": "young plant, 5,5cm pot"
-  }
-,
-  {
     "title": "Cirrhopetalum ornatissimum",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/2099",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-cirrhopetalum-ornatissimum-00.jpg",
     "price": "7,80 €",
     "description": "young plant, 5,5cm pot, can flower this size"
-  },
+  }
+,
   {
     "title": "Cirrhopetalum pulchellum var. purpureum",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/2100",
@@ -156,20 +149,12 @@
     "description": "young plant, 5,5cm pot"
   },
   {
-    "title": "Dendrobium kingianum",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/2107",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-kingianum.jpg",
-    "price": "7,80 €",
-    "description": "near flowering size, 5,5 cm pot"
-  },
-  {
     "title": "Dendrobium loddigesii",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/446",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-loddigesii1.jpg",
     "price": "7,80 €",
     "description": "flowering size, 5,5cm pot, miniature"
-  }
-,
+  },
   {
     "title": "Epidendrum porpax (syn. Nanodes porpax)",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/454",
@@ -183,7 +168,8 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_son-eul-john-davison-00.jpg",
     "price": "7,80 €",
     "description": "young plant, 5,5cm pot"
-  },
+  }
+,
   {
     "title": "Laelia purpurata",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/458",
@@ -220,13 +206,6 @@
     "description": "young plant 5,5 cm pot"
   },
   {
-    "title": "Phal. Marie Sophie",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/1824",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_phal-marie-sophie.jpg",
-    "price": "7,80 €",
-    "description": "young plant 5,5 cm pot"
-  },
-  {
     "title": "Phalaenopsis hieroglyphica",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/1385",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_phal-phalaenopsis-hieroglyphica.jpg",
@@ -253,8 +232,7 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_afri-polystachya-virginea.jpg",
     "price": "7,80 €",
     "description": "near flowering size, 5,5cm pot, can flower this size"
-  }
-,
+  },
   {
     "title": "Prom. Margaret E. Boice",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/489",
@@ -275,20 +253,14 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_stan-stanhopea-jenischiana-01.jpg",
     "price": "7,80 €",
     "description": "young plant, 5,5cm pot"
-  },
+  }
+,
   {
     "title": "Stanhopea oculata",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/494",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_stan-stanhopea-oculata-00.jpg",
     "price": "7,80 €",
     "description": "young plant, 5,5cm pot"
-  },
-  {
-    "title": "Zootrophion atropurpureum",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/young-plants/product/view/4/2634",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_pleu_zootrophion_atropurpureum.jpg",
-    "price": "7,80 €",
-    "description": "near flowering size, 5,5cm pot, miniature orchid"
   },
   {
     "title": "Zootrophion hirtzii",

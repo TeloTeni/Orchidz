@@ -29,13 +29,6 @@
     "description": "flowering size, 6,5cm pot"
   },
   {
-    "title": "Masdevallia caesia",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/752",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-caesia.jpg",
-    "price": "18,00 €",
-    "description": "flowering size, mounted"
-  },
-  {
     "title": "Masdevallia caudata",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/753",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-caudata-c.jpg",
@@ -59,7 +52,7 @@
   {
     "title": "Masdevallia glandulosa",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/766",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-glandulosa.jpg",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-glandulosa-00.jpg",
     "price": "19,50 €",
     "description": "flowering size, 5,5cm pot"
   },
@@ -83,27 +76,20 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-paiveana.jpg",
     "price": "9,50 €",
     "description": "Young plant, 5,5cm pot, plants can flower this size"
-  }
-,
+  },
   {
     "title": "Masdevallia princeps",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/2334",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-princeps.jpg",
     "price": "29,50 €",
     "description": "flowering size, 6,5cm pot"
-  },
+  }
+,
   {
     "title": "Masdevallia striatella",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/2335",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-striatella.jpg",
     "price": "14,50 €",
     "description": "flowering size, 6,5cm pot"
-  },
-  {
-    "title": "Masdevallia tovarensis",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/masdevallia/masdevallia-species/product/view/43/787",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_masd-masdevallia-tovarensis-01.jpg",
-    "price": "14,50 €",
-    "description": "flowering size, 9cm pot"
   }
 ]

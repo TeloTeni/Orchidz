@@ -50,6 +50,13 @@
     "description": "mounted Young plants"
   },
   {
+    "title": "Laelia jongheana",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/54E8/BD91/42E0/C7E2/7727/0A48/3547/AF6B/11430_1_129918755756_m.png",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/11430",
+    "price": "24.00 €",
+    "description": "in moss  part established import plants, flowering size"
+  },
+  {
     "title": "Laelia lucasiana",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/54E8/BAF5/8741/F073/73C4/0A48/3547/AF35/Laelia_lucasiana_B_N_1_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/10099",
@@ -106,13 +113,6 @@
     "description": "flowering size"
   },
   {
-    "title": "Laelia sanguiloba",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/54E8/BD8C/8C92/7B56/DADD/0A48/3547/AF26/11429_1_301979201587_m.png",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/11429",
-    "price": "18.00 €",
-    "description": "plants flowering size / adult"
-  },
-  {
     "title": "LC \"El Cerrito\" (Laelia flava x Cattleya aurantiaca yellow)",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/559A/E65A/6092/597D/88F6/0A48/3548/ED79/LC_El_Cerrito_H_N_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20175",
@@ -160,5 +160,19 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20954",
     "price": "8.00 €",
     "description": "young plants 5,5 cm pot"
+  },
+  {
+    "title": "Laelia perrinii",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/59E4/833D/074E/2331/217E/0A48/3647/4FDE/Laelia_perrinii__m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21012",
+    "price": "25.00 €",
+    "description": "flowering / adult plant"
+  },
+  {
+    "title": "Laelia perrinii semi-alba",
+    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/56C7/65C8/F9AF/BC7D/1D79/0A48/3548/B9E2/Laelia_perrinii_semi_alba_N_B_m.JPG",
+    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20387",
+    "price": "49.90 €",
+    "description": "flowering / adult plants"
   }
 ]

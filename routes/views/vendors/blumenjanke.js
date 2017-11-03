@@ -30,7 +30,10 @@ var x = Xray({
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
 var locals = res.locals;
-var links = ['http://www.blumen-janke.de/shop/index.php/de/Orchideen-Naturformen/l-3500',
+var links = ['http://www.blumen-janke.de/shop/index.php/de/Orchideen-Prim-r-Hybriden/l-3200',
+'http://www.blumen-janke.de/shop/index.php/de/Orchideen-Naturformen/l-3500',
+'http://www.blumen-janke.de/shop/index.php/de/Orchideen-Kreuzungen-Hybriden/l-4000',
+'http://www.blumen-janke.de/shop/index.php/de/Orchideen-Eigene-Kreuzungen/l-4500'
 ];
 
 view.on('init', function(next){
