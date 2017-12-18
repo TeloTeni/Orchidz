@@ -1,17 +1,10 @@
 [
 
   {
-    "title": "Aeridovanda Somsri Sunlight",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3524-aeridovanda-somsri-sunlight.html",
-    "price": "21,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/aeridovanda_somsri_sunlight_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Renanthera citrina",
-    "url": "https://www.currlin.com/en/online-shop/produkt/1422-renanthera-citrina.html",
-    "price": "21,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Renanthera_citri_4cda67813884b.jpg",
+    "title": "Chiloschista viridiflava",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3587-chiloschista-viridiflava.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -33,13 +26,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3304-restrepia-brachypus.html",
     "price": "12,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/restrepia_brachypus_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Restrepia cuprea",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3305-restrepia-cuprea.html",
-    "price": "18,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/restrepia_cuprea_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -113,13 +99,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Schoenorchis fragrans",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2739-schoenorchis-fragrans.html",
-    "price": "12,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/schoenorchis_fragrans_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Sobralia Hybride",
     "url": "https://www.currlin.com/en/online-shop/produkt/3096-sobralia-hybride.html",
     "price": "19,50 €",
@@ -174,8 +153,7 @@
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Pleurothallis_na_4cda64c36eeac.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Taeniophyllum pusillum 'orange'",
     "url": "https://www.currlin.com/en/online-shop/produkt/3375-taeniophyllum-pusillum-orange.html",
@@ -196,7 +174,8 @@
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/tolumnia_guttata_currlin_orchideen_541685948.jpg",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
     "title": "Tolumnia Hybride - Überraschung",
     "url": "https://www.currlin.com/en/online-shop/produkt/2857-tolumnia-hybride.html",
@@ -212,17 +191,17 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Trachoma papuanum",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3581-trachoma-papuanum.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size - NOT in spike"
+  },
+  {
     "title": "Trichocentrum carthagenense",
     "url": "https://www.currlin.com/en/online-shop/produkt/3056-trichocentrum-carthagenense.html",
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/trichocentrum_carthagenense.jpg",
-    "description": "flowering size in 1 year"
-  },
-  {
-    "title": "Trichocentrum tigrinum",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3285-trichocentrum-tigrinum.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/trichocentrum_tigrinum_currlin_orchideen.jpg",
     "description": "flowering size in 1 year"
   },
   {
@@ -238,6 +217,13 @@
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Trichopilia_rost_4cda69db88db9.jpg",
     "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Trichopilia suavis",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3234-trichopilia-suavis.html",
+    "price": "18,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/trichopilia_suavis_3_currlin_orchideen.jpg",
+    "description": "flowering size in 1 year"
   },
   {
     "title": "Trigonidium egertonianum",
@@ -265,13 +251,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3336-vanda-falcata-gojyo-fukurin.html",
     "price": "35,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/vanda_falcata_gojyo_fukurin_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Vanda falcata 'Shutenno' x 'Kenkokuden'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3511-vanda-falcata-shutenno-x-kenkokuden.html",
-    "price": "35,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/vanda_falcata_shuttenou_x_kenkoukaden_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -303,18 +282,18 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Vanda luzonica",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2113-vanda-luzonica.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/vanda_luzonica_currlin_orchideen.jpg",
+    "description": "flowering size in 2 years"
+  },
+  {
     "title": "Vanda Robert's Delight #3",
     "url": "https://www.currlin.com/en/online-shop/produkt/3523-vanda-robert-s-delight-3.html",
     "price": "21,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/vanda_roberts_delight_nr2_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Vanda tricolor var. suavis",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3297-vanda-tricolor-var-suavis.html",
-    "price": "16,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/vanda_tricolor_var_suavis_currlin_orchideen.jpg",
-    "description": "flowering size in 3 year"
   },
   {
     "title": "Vanda Uraiwan Belle",
@@ -350,8 +329,7 @@
     "price": "17,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Zelemnia Midas",
     "url": "https://www.currlin.com/en/online-shop/produkt/2246-zelemnia-midas.html",

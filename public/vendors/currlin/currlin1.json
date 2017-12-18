@@ -106,13 +106,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Cattleya kerrii",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2410-cattleya-kerrii.html",
-    "price": "19,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/cattleya_kerrii_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Cattleya labiata",
     "url": "https://www.currlin.com/en/online-shop/produkt/3127-cattleya-labiata.html",
     "price": "21,00 €",
@@ -137,13 +130,6 @@
     "title": "Cattleya lueddemanniana 'Dunkel'",
     "url": "https://www.currlin.com/en/online-shop/produkt/2477-cattleya-lueddemanniana-dunkel.html",
     "price": "30,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Cattleya lueddemanniana 'Dunkel'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2905-cattleya-lueddemanniana-dunkel-p9.html",
-    "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
   },
@@ -174,8 +160,7 @@
     "price": "28,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Cattleya_maxima_4cdaacb669ab7.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Cattleya maxima 'Dunkel'",
     "url": "https://www.currlin.com/en/online-shop/produkt/1482-cattleya-maxima-%60dunkel%60.html",
@@ -189,7 +174,8 @@
     "price": "21,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Cattleya_maxima__51dd0b0846ab8.jpg",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
     "title": "Cattleya maxima var. coerulea 'Hector' x self",
     "url": "https://www.currlin.com/en/online-shop/produkt/2142-cattleya-maxima-var-alba-p9.html",
@@ -202,13 +188,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3487-cattleya-milleri-p9.html",
     "price": "18,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Cattleya mossiae",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2911-cattleya-mossiae-p9.html",
-    "price": "18,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Cattleya_mossiae_51dd0b9f9bd8c.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -238,13 +217,6 @@
     "price": "23,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/cattleya_percivaliana_winter_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Cattleya percivaliana var. alba",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2797-cattleya-percivaliana-var-alba.html",
-    "price": "21,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/cattleya_percivaliana_var__alba_currlin_orchideen.jpg",
-    "description": "flowering size in 2 years"
   },
   {
     "title": "Cattleya purpurata (var. argolao 'Moog' x russeliana) x (sublima x var. coerulea)",
@@ -324,20 +296,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Cattleya trianae ('Rolf' x 'Sladen')",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2913-cattleya-trianae-rolf-x-sladen.html",
-    "price": "25,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Cattleya trianae var. semialba 'Pink Gem'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/1952-cattleya-trianae-var-semialba-pink-gem.html",
-    "price": "30,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Cattleya_trianae_4ed60397cdc4e.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Cattleya walkeriana",
     "url": "https://www.currlin.com/en/online-shop/produkt/3386-cattleya-walkeriana.html",
     "price": "21,00 €",
@@ -350,8 +308,7 @@
     "price": "21,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Cattleya warneri",
     "url": "https://www.currlin.com/en/online-shop/produkt/1505-cattleya-warneri.html",
@@ -379,19 +336,5 @@
     "price": "21,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Laelia purpurata var. semialba 'selektiert'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/1642-laelia-purpurata-var-semialba-selektiert.html",
-    "price": "50,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Laelia_purpurata_4cdb0171778d3.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Laelia tenebrosa 'Dunkel'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2916-laelia-tenebrosa-dunkel.html",
-    "price": "21,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size in 1 year"
   }
 ]

@@ -1,73 +1,36 @@
 [
 
   {
-    "title": "Maxillaria bradei",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/maxillaria_bradei.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p698_maxillaria-bradei.html",
-    "price": "16,90 €",
-    "description": "blooming size"
+    "title": "Maxillaria atrosanguinea",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Maxillaria-atrosanguinea-2-.jpg",
+    "url": "https://www.elsner-orchideen.de/Maxillaria/Maxillaria-atrosanguinea.html",
+    "price": "15,95 €"
   },
   {
     "title": "Maxillaria brunea",
-    "image": "http://www.elsner-orchideen.de/shop/admin/html/assets/images/legacy/icons/Grün.png",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p278_maxillaria-brunea.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/leer_0.png",
+    "url": "https://www.elsner-orchideen.de/Maxillaria/Maxillaria-brunea.html",
     "price": "14,00 €",
     "description": "blooming size"
   },
   {
-    "title": "Maxillaria fractiflexa",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/maxillariafractiflexa.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1337_maxillaria-fractiflexa.html",
-    "price": "23,90 €",
-    "description": "blooming size"
-  },
-  {
     "title": "Maxillaria luteoalba",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Maxillaria%20luteoalba.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1744_maxillaria-luteoalba.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Maxillaria%20luteoalba.jpg",
+    "url": "https://www.elsner-orchideen.de/maxillaria-luteoalba.html",
     "price": "24,95 €"
   },
   {
     "title": "Maxillaria sanderiana",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/max._sanderiana.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p282_maxillaria-sanderiana.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/max._sanderiana.jpg",
+    "url": "https://www.elsner-orchideen.de/Maxillaria/Maxillaria-sanderiana.html",
     "price": "23,90 €",
     "description": "blooming size,Import"
   },
   {
-    "title": "Maxillaria schunkeana",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/max._schunkeana.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p283_maxillaria-schunkeana.html",
-    "price": "16,90 €",
-    "description": "blooming size"
-  },
-  {
     "title": "Maxillaria triloris",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/maxillaria_triloris.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p286_maxillaria-triloris.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/maxillaria_triloris.jpg",
+    "url": "https://www.elsner-orchideen.de/Maxillaria/Maxillaria-triloris.html",
     "price": "23,00 €",
     "description": "blooming size"
-  },
-  {
-    "title": "Maxillaria vitteliniflora",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/maxillaria_vitteliniflora.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p790_maxillaria-vitteliniflora.html",
-    "price": "16,90 €",
-    "description": "blooming size, mounted"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

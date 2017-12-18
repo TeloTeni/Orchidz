@@ -2,90 +2,40 @@
 
   {
     "title": "Encyclia adenocaula x self",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/encycl.adenocaulenah.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1444_encyclia-adenocaula-x-self.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/encycl.adenocaulenah.jpg",
+    "url": "https://www.elsner-orchideen.de/Encyclia/Encyclia-adenocaula-x-self.html",
     "price": "21,90 €",
     "description": "1-2 years to bloom"
   },
   {
     "title": "Encyclia alata x  dickinsoniana",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Enc.%20alata%20x%20dickensonia%202%20JPG.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1570_encyclia-alata-x--dickinsoniana.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Enc.%20alata%20x%20dickensonia%202%20JPG.jpg",
+    "url": "https://www.elsner-orchideen.de/encyclia-alata-x-dickinsoniana.html",
     "price": "19,95 €"
   },
   {
-    "title": "Encyclia boothiana",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Enc.%20boothiana.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1631_encyclia-boothiana.html",
-    "price": "15,95 €"
-  },
-  {
     "title": "Encyclia chapadensis",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Enc.%20chapadensis.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1594_encyclia-chapadensis.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Enc.%20chapadensis.jpg",
+    "url": "https://www.elsner-orchideen.de/encyclia-chapadensis.html",
     "price": "19,95 €"
   },
   {
     "title": "Encyclia cochleata x vitellina",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Encyclia%20cochleata%20x%20vitellina.JPG",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1655_encyclia-cochleata-x-vitellina.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Encyclia%20cochleata%20x%20vitellina.JPG",
+    "url": "https://www.elsner-orchideen.de/encyclia-cochleata-x-vitellina.html",
     "price": "17,50 €"
   },
   {
-    "title": "Encyclia cordigera",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/encyclia_cordigera.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p223_encyclia-cordigera.html",
-    "price": "18,90 €",
-    "description": "blooming size"
-  },
-  {
-    "title": "Encyclia mariae",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/encyclia_mariae_228_0.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p228_encyclia-mariae.html",
-    "price": "15,95 €"
-  },
-  {
     "title": "Encyclia prismatocapa",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/encyclia_prismatocapa.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p229_encyclia-prismatocapa.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/encyclia_prismatocapa.jpg",
+    "url": "https://www.elsner-orchideen.de/Encyclia/Encyclia-prismatocapa.html",
     "price": "22,90 €",
     "description": "blooming size"
   },
   {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  }
-,
-  {
     "title": "Encyclia randii alba",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Enc.%20randii%20alba%202.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1736_encyclia-randii-alba.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Enc.%20randii%20alba%202.jpg",
+    "url": "https://www.elsner-orchideen.de/encyclia-randii-alba.html",
     "price": "22,90 €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

@@ -22,12 +22,13 @@ var x = Xray({
     return typeof value === 'string' ? value.replace("...", "")  : value
     },
   },
-});
+}).delay(1000);
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
 var locals = res.locals;
-var links = ['https://www.orchideenwlodarczyk.de/shop/catalog/ascocenda-ascda-c-41.html?language=en',
+var links = [
+'https://www.orchideenwlodarczyk.de/shop/catalog/ascocenda-ascda-c-41.html?language=en',
  'https://www.orchideenwlodarczyk.de/shop/catalog/hybrids-c-6.html?language=en',
 'https://www.orchideenwlodarczyk.de/shop/catalog/aerangis-c-52_21.html?language=en',
 'https://www.orchideenwlodarczyk.de/shop/catalog/angraecum-c-52_23.html?language=en',
@@ -52,13 +53,14 @@ var links = ['https://www.orchideenwlodarczyk.de/shop/catalog/ascocenda-ascda-c-
 'https://www.orchideenwlodarczyk.de/shop/catalog/pleione-c-52_49.html?language=en',
 'https://www.orchideenwlodarczyk.de/shop/catalog/tilandsia-c-52_45.html?language=en',
 'https://www.orchideenwlodarczyk.de/shop/catalog/tolumnia-c-52_47.html?language=en',
-'https://www.orchideenwlodarczyk.de/shop/catalog/vanda-c-52_37.html?language=en'];
+'https://www.orchideenwlodarczyk.de/shop/catalog/vanda-c-52_37.html?language=en'
+];
 
 view.on('init', function(next){
 console.log('start');
 links.forEach(function(link, i){
 x(link, '#bodyContent > div > div > div > div > div',[{
-//title: 'a@href:nth-of-type(1)',
+//title: 'a:nth-of-type(2)',
 title: x('a@href', '.product_info_name'),
 url: 'a@href | trim',
 price: 'span | trim | slice: 3 | trim | symbol',

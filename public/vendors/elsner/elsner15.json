@@ -1,51 +1,49 @@
 [
 
   {
+    "title": "Angraecum aloifolium",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/african-species/Angraecum/Angraecum-aloifolium.html",
+    "price": "12,90 €"
+  },
+  {
     "title": "Angraecum bosseri",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/angraecum_bosseri.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p27_angraecum-bosseri.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/angraecum_bosseri.jpg",
+    "url": "https://www.elsner-orchideen.de/african-species/Angraecum/Angraecum-bosseri.html",
     "price": "14,95 €",
     "description": "1-2  years to blooming size"
   },
   {
+    "title": "Angraecum dollii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Angraecum-dollii-5.jpg",
+    "url": "https://www.elsner-orchideen.de/angraecum-dollii.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Angraecum eichlerianum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/angr._eichlerianum.jpg",
+    "url": "https://www.elsner-orchideen.de/african-species/Angraecum/Angraecum-eichlerianum.html",
+    "price": "18,90 €",
+    "description": "blooming size , mounted,"
+  },
+  {
     "title": "Angraecum elephantinum",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/angr._elephantinum.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p33_angraecum-elephantinum.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/angr._elephantinum.jpg",
+    "url": "https://www.elsner-orchideen.de/african-species/Angraecum/Angraecum-elephantinum.html",
     "price": "13,95 €",
     "description": "blooming size ,"
   },
   {
-    "title": "Angraecum germinyanum",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/angraecum_germinyanum.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p34_angraecum-germinyanum.html",
-    "price": "16,90 €"
-  },
-  {
     "title": "Angraecum leonis",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/angraecum_leonis.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p36_angraecum-leonis.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/angraecum_leonis.jpg",
+    "url": "https://www.elsner-orchideen.de/african-species/Angraecum/Angraecum-leonis.html",
     "price": "10,00 €",
     "description": "2 years to flower"
   },
   {
     "title": "Angraecum Veitchii",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Angr.%20Veitchii.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1742_angraecum-veitchii.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Angr.%20Veitchii.jpg",
+    "url": "https://www.elsner-orchideen.de/angraecum-veitchii.html",
     "price": "29,90 €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

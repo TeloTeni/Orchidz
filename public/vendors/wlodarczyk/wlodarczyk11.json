@@ -2,10 +2,17 @@
 
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-anthracina-p-839.html",
-    "price": "19.00 €",
+    "price": "14.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x204xdracula_anthracina_gross.jpg.pagespeed.ic.Wat_4EVUjl.jpg",
     "description": "Flowering size",
     "title": "Dracula anthracina"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-barrowii-p-1150.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x229xdracula_barrowii_gross.jpg.pagespeed.ic.ih6IVfq57U.jpg",
+    "description": "Flowering size orchid",
+    "title": "Dracula barrowii"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-chestertonii-p-786.html",
@@ -25,7 +32,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-diana-p-1175.html",
     "price": "23.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x246xdracula_diana_gross.jpg.pagespeed.ic.eGyzCOXW4M.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Dracula diana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-hirsuta-p-1385.html",
@@ -75,6 +83,13 @@
     "title": "Dracula severa"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-simia-p-946.html",
+    "price": "19.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x259xdracula_simia_gross.jpg.pagespeed.ic.Y4I5q1MPXK.jpg",
+    "description": "Flowering size orchid",
+    "title": "Dracula simia"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-sodiroi-long-type-p-1304.html",
     "price": "36.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x238xdracula_sodiroi_gross.jpg.pagespeed.ic.mD1sCVX5ci.jpg",
@@ -83,10 +98,12 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-sodiroi-short-type-p-1303.html",
-    "price": "36.00 €",
+    "price": "19.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xdracula_sodiroi_short_gross.jpg.pagespeed.ic.lXfgqq1RtR.jpg",
-    "description": "Flowering size orchid"
-  },
+    "description": "Flowering size orchid",
+    "title": "Dracula sodiroi short type"
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-vampira-p-1316.html",
     "price": "38.00 €",
@@ -99,18 +116,12 @@
     "price": "26.00 €",
     "description": "Flowering size orchid",
     "title": "Dracula vlad-tepes"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-woolwardii-p-1314.html",
     "price": "35.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x276xdracula_woolwardii_gross.jpg.pagespeed.ic.7L3YN4oz6E.jpg",
     "description": "Flowering size orchid",
     "title": "Dracula woolwardii"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

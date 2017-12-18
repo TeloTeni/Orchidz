@@ -19,13 +19,14 @@ var x = Xray({
     return typeof value === 'string' ? value.replace("inkl. MwSt zzgl. Versand", "").replace(/EUR/g, "") : value
   },
   titleL: function (value, start , end) {
-  return typeof value === 'string' ? value.replace(/-\s\w+\s\w*\s*/, "") : value
+  return typeof value === 'string' ? value.replace(/-(.*)/, "") : value
+  //return typeof value === 'string' ? value.replace(/-\s\w+\s\w*\s*/, "") : value
   },
   symbol: function (value, start , end) {
   return typeof value === 'string' ? value = value + " €" : value
   },
 },
-});
+}).delay(1000);;
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);

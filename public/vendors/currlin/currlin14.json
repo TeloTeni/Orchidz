@@ -1,10 +1,10 @@
 [
 
   {
-    "title": "Luisia teres",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2946-luisia-teres.html",
+    "title": "Oeonia rosea",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2809-oeonia-rosea.html",
     "price": "14,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/lusia_teres_currlin_orchideen.jpg",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/oeonia_rosea_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -43,6 +43,13 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Ornithocephalus gladiatus",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2832-ornithocephalus-gladiatus.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/ornithocephalus_gladiatus_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
     "title": "Panisea uniflora",
     "url": "https://www.currlin.com/en/online-shop/produkt/1405-panisea-uniflora.html",
     "price": "16,00 €",
@@ -61,20 +68,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/1406-papilionanthe-pedunculata.html",
     "price": "17,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Papilionanthe vandarum",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3287-papilionanthe-vandarum-j1.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/papilionanthe_vandarum_currlin_orchideen.jpg",
-    "description": "flowering size in 1 year"
-  },
-  {
-    "title": "Phalaenopsis japonica 'Daruma'",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3489-phalaenopsis-japonica-daruma.html",
-    "price": "39,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/phalaenopsis_japonica_daruma_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -174,14 +167,28 @@
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Encyclia_brassav_526152cf3d989.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Prosthechea livida",
     "url": "https://www.currlin.com/en/online-shop/produkt/1325-prosthechea-livida.html",
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Encyclia_livida_4cca892863c60.jpg",
     "description": "flowering size - NOT in spike"
+  }
+,
+  {
+    "title": "Prosthechea mariae",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2334-prosthechea-syn-encyclia-mariae.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/prosthechea-mariae-gro.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Prosthechea Marina",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3296-prosthechea-marina.html",
+    "price": "18,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size in 1 year"
   },
   {
     "title": "Prosthechea prismatocarpa",

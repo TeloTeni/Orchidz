@@ -63,6 +63,13 @@
     "title": "Laelia endsfelzii"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-itambana-p-1432.html",
+    "price": "23.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x189xlaelia_itambana_gross.jpg.pagespeed.ic.LMPc2BWPE6.jpg",
+    "description": "Flowering size orchid",
+    "title": "Laelia itambana"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-jongheana-p-1177.html",
     "price": "17.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xlaelia_jongheana_gross.jpg.pagespeed.ic.oBjR3S44HH.jpg",
@@ -87,18 +94,18 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x194xlaelia_lundii_gross.jpg.pagespeed.ic.6pLqrQ4_XC.jpg",
     "description": "Flowering size orchid",
     "title": "Laelia lundii"
-  },
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-perinnii-p-1176.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x213xlaelia_perinnii_gross.jpg.pagespeed.ic.E7zIcXW22o.jpg",
     "description": "Flowering size orchid",
     "title": "Laelia perinnii"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-pumila-p-116.html",
-    "price": "13.00 €",
+    "price": "7.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x204xlaelia_pumila_gross.jpg.pagespeed.ic.xfQnWVE8iT.jpg",
     "description": "Young plant,flowering size in one year",
     "title": "Laelia pumila"
@@ -112,7 +119,8 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-purpurata-var-wekhuseri-p-1503.html",
-    "price": "28.00 €",
+    "price": "23.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x218xlaelia_purpurata_var_werkhaeuseri_gross.jpg.pagespeed.ic.-eXg-Pk_gU.jpg",
     "description": "Young plant,flowering size in one year",
     "title": "Laelia purpurata var.: Wekhäuseri"
   },
@@ -124,28 +132,10 @@
     "title": "Laelia sanguiloba"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-schmidtii-p-1490.html",
-    "price": "23.00 €",
-    "description": "Flowering size orchid",
-    "title": "Laelia schmidtii"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-sincorana-p-1426.html",
-    "price": "25.00 €",
-    "description": "Flowering size orchid",
-    "title": "Laelia sincorana"
-  },
-  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/laelia-tenebrosa-p-1236.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x186xlaelia_tenebrosa_gross.jpg.pagespeed.ic.161rJ0hb3O.jpg",
     "description": "Flowering size in one year,",
     "title": "Laelia tenebrosa"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

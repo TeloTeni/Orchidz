@@ -19,12 +19,12 @@ var x = Xray({
     return typeof value === 'string' ? value = value + " €" : value
 },
   },
-});
+}).delay(1000);;
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
 var locals = res.locals;
-var links = ['http://www.hennis-orchideen.de/Gesamtes-Sortiment/L0hPX1NIT1BfTElTVD9GSUxURVI9Njc3NzMsNjc3NzQsNjc4MzksNjc3NzUsNjc3NzYmTUFYUkVDPTEwJlNPUlQ9MSZQQUdFPTQxJk1JRD02NzgzNQ.html?UID=FC4C362C98555E8093E378DFB50EF4C553880ED9872FFD4B',
+var links = ['http://www.hennis-orchideen.de/Gesamtes-Sortiment/L0hPX1NIT1BfTElTVD9GSUxURVI9Njc3NzMsNjc3NzQsNjc4MzksNjc3NzUsNjc3NzYmTUFYUkVDPTEwJlNPUlQ9MSZQQUdFPTEmTUlEPTY3ODM1.html?UID=B2A0E3E3582E8C449BBE4EF5407A415B76B0D9D29887',
 ];
 
 view.on('init', function(next){
@@ -37,7 +37,8 @@ price: '.shop_list_Price | trim | replace | trim | symbol',
 image: '.c33l img@src',
 description: '.shop_list_Category'
 }])
-.paginate('#navigator  a:nth-child(2) @href')
+.paginate('#navigator  .active + a@href')
+.limit(50)
 .write('./public/vendors/hennis/hennis' + i + '.json')
 });
 //concat JSON files

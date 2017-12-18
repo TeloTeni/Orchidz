@@ -16,7 +16,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-concolor-p-834.html",
-    "price": "28.00 €",
+    "price": "23.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x176xpaphiopedilum_concolor_gross.jpg.pagespeed.ic.cWqJr5TR5-.jpg",
     "description": "Flowering size",
     "title": "Paphiopedilum concolor"
@@ -27,6 +27,13 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xpaphiopedilum_delenatii1_gross.jpg.pagespeed.ic.eqUPu0QlSp.jpg",
     "description": "Flowering size orchid",
     "title": "Paphiopedilum delenatii"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-delenatii-var-alba-p-1454.html",
+    "price": "18.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x226xpaphiopedilum_delenatii_var_alba_gross.jpg.pagespeed.ic.JL_ww1boob.jpg",
+    "description": "Flowering size orchid",
+    "title": "Paphiopedilum delenatii var.: Alba"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-delenatii-var-vinicolor-p-1455.html",
@@ -42,9 +49,9 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-godefroyae-p-924.html",
-    "price": "15.00 €",
+    "price": "28.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xpaphiopedilum_leucochilum_gross.jpg.pagespeed.ic.dyXWEnkSWf.jpg",
-    "description": "Young plant, flowering size in one year",
+    "description": "Flowering size",
     "title": "Paphiopedilum godefroyae"
   },
   {
@@ -82,9 +89,9 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-parishii-p-213.html",
-    "price": "59.00 €",
+    "price": "39.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x334xpaphiopedilum_parishii2_gross.jpg.pagespeed.ic.yvfAKZqpgy.jpg",
-    "description": "Flowering size orchid, big plants with some m",
+    "description": "Flowering size orchid,",
     "title": "Paphiopedilum parishii"
   },
   {
@@ -93,20 +100,20 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x360xpaphiopedilum_rothschildianum2_gross.jpg.pagespeed.ic.2VBhSyENn3.jpg",
     "description": "Young plant, flowering size in one year",
     "title": "Paphiopedilum rothschildianum"
+  }
+,
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-sanderianum-p-689.html",
+    "price": "35.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x413xpaphiopedilum_sanderianum_gross.jpg.pagespeed.ic.q1c9D-MlJH.jpg",
+    "description": "Young plant",
+    "title": "Paphiopedilum sanderianum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-sanderianum-p-294.html",
     "price": "150.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x413xpaphiopedilum_sanderianum_gross.jpg.pagespeed.ic.q1c9D-MlJH.jpg",
     "title": "Paphiopedilum sanderianum"
-  }
-,
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-sanderianum-young-plant-p-689.html",
-    "price": "80.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x413xpaphiopedilum_sanderianum_gross.jpg.pagespeed.ic.q1c9D-MlJH.jpg",
-    "description": "Young plant,flowering size in one to two year",
-    "title": "Paphiopedilum sanderianum young plant"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-sangii-p-514.html",
@@ -114,13 +121,6 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x306xPaphiopedilum_sangii_gross.jpg.pagespeed.ic.a3kiAAenYU.jpg",
     "description": "Flowering size orchid",
     "title": "Paphiopedilum sangii"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-urbanianum-p-822.html",
-    "price": "19.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x297xpaphiopedilum_urbanianum_gross.jpg.pagespeed.ic.UDHQI4BQmp.jpg",
-    "description": "1/2 - 1 year to flowering size",
-    "title": "Paphiopedilum urbanianum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/paphiopedilum-wenshanense-concobellatulum-p-1457.html",

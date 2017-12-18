@@ -1,13 +1,6 @@
 [
 
   {
-    "title": "Dendrobium farmeri",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/dendrobium/product/view/41/867",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-farmeri.jpg",
-    "price": "14,50 €",
-    "description": "9 cm pot, flowering size"
-  },
-  {
     "title": "Dendrobium harveyanum",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/dendrobium/product/view/41/2778",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-harveyanum.jpg",
@@ -23,9 +16,9 @@
   },
   {
     "title": "Dendrobium thyrsiflorum",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/dendrobium/product/view/41/585",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/dendrobium/product/view/41/2932",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-thrysiflorum.jpg",
-    "price": "18,50 €",
-    "description": "9 cm pot, strong plants"
+    "price": "24,50 €",
+    "description": "12 cm pot, strong plants"
   }
 ]

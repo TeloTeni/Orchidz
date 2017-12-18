@@ -1,3 +1,12 @@
 // Override Bootstrap variables in this file, e.g.
 
 $font-size-base: 14px;
+.bg-blend {
+  background-image: url(orchid-stem_sm.jpg);
+  background-color: red;
+  background-blend-mode: multiply;
+}
+body {
+    background-image: url("circles-light.png");
+    background-repeat: repeat-x;
+}

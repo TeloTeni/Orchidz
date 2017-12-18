@@ -1,6 +1,7 @@
 var keystone = require('keystone');
 var fs = require('fs');
 var Xray = require('x-ray');
+// added .delay() but site still freezing
 var x = Xray({
   filters: {
     trim: function (value) {
@@ -13,7 +14,7 @@ var x = Xray({
       return typeof value === 'string' ? value.slice(start, end) : value
     }
   }
-});
+}).concurrency(2);
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
@@ -136,6 +137,7 @@ description: x('a@href', '.size span')
 }])
 //.paginate('.panel-pagination strong + a@href')
 .write('./public/vendors/akerne/akerne' + i + '.json')
+
 });
 
 

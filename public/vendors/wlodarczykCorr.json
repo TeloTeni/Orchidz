@@ -6,290 +6,96 @@
     "price": " €"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-abbreviatum-p-804.html",
-    "price": "17.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xdendrobium_abbreviatum_gross.jpg.pagespeed.ic.gyD4QYIbi1.jpg",
-    "description": "Flowering size"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-arachnitis-p-1210.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x292xdendrochilum_arachnitis_gross.jpg.pagespeed.ic.8kttxeEyMt.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-cobbianum-p-112.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x269xdendrochilum_cobbianum_gross.jpg.pagespeed.ic.AMx8ILrkPM.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-compactum-p-1424.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x266xdendrochilum_compactum_gross.jpg.pagespeed.ic.AT_Ea4JFSe.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-glumaceum-p-1330.html",
-    "price": "16.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x242xdendrochilum_glumaceum_gross.jpg.pagespeed.ic.6SfoFN8Rwy.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-infractum-p-944.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xdendrochilum_infractum_gross.jpg.pagespeed.ic.g9-jywd5k1.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-javieriense-p-851.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xDendrochilum_javieri_gross.jpg.pagespeed.ic.YHzpFI_U49.jpg",
-    "description": "Flowering size"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-magnum-p-682.html",
-    "price": "16.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x209xdendrochilum_magnum_gross.jpg.pagespeed.ic.mUQ5TJ7XQH.jpg",
-    "description": "Flowering size, 25 - 30cm"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-parvulum-p-1329.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x268xdendrochilum_parvulum_gross.jpg.pagespeed.ic.V66zvc_SRs.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-pulcherimum-p-1118.html",
-    "price": "17.50 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x215xdendrochilum_spec_gross.jpg.pagespeed.ic.uMSDgsZxHO.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-quinquilobum-p-945.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x204xDendrochilum_quinquilobum_gross.jpg.pagespeed.ic.za1prhJe-L.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-tenellum-p-110.html",
-    "price": "18.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x138xdendrochilum_tenellum_gross.jpg.pagespeed.ic.xKhGjV9i7p.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-uncatum-p-1476.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x289xdendrochilum_uncatum_gross.jpg.pagespeed.ic.FKP1Pm3MAG.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrochilum-wenzelii-p-524.html",
-    "price": "16.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xdendrochilum_wenzelii_gross.jpg.pagespeed.ic.MvV1HEtikw.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-diana-p-1175.html",
-    "price": "23.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x246xdracula_diana_gross.jpg.pagespeed.ic.eGyzCOXW4M.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dracula-sodiroi-short-type-p-1303.html",
-    "price": "36.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xdracula_sodiroi_short_gross.jpg.pagespeed.ic.lXfgqq1RtR.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-acuminata-p-1149.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x199xmaxillaria_acuminata_gross.jpg.pagespeed.ic.OEokEQqGaM.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-atrosanguinea-p-1415.html",
-    "price": "19.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x253xmaxillaria_atrosanguinea_gross.jpg.pagespeed.ic.6Ynb4qWDCZ.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-cuculata-p-955.html",
-    "price": "19.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xmaxillaria_cuculata_gross.jpg.pagespeed.ic.pRfMGx9CsT.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-meleagris-p-1011.html",
-    "price": "19.00 €",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-picta-p-540.html",
-    "price": "18.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x261xmaxillaria_picta_gross.jpg.pagespeed.ic.dNC__oFpLQ.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-porphyrostele-p-135.html",
-    "price": "16.00 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x261xmaxillaria_porphyrostele_gross.jpg.pagespeed.ic.DNcOzEbbHn.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-rufescens-very-fragrant-by-vanille-p-525.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x222xMaxillaria_rufescens_gross.jpg.pagespeed.ic.6UsdZLpGRl.jpg",
-    "description": "Flowering size orchid"
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-henrici-p-299.html",
+    "price": "19.95 €",
+    "description": "Young plant",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-schunkeana-p-1031.html",
-    "price": "17.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x206xmaxillaria_schunkeana_gross.jpg.pagespeed.ic.D88l_FcFCy.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-sophronitis-p-134.html",
-    "price": "16.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xmaxillaria_sophronitis_gross.jpg.pagespeed.ic.OUsunVk-aM.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-tenuifolia-coco-orchid-p-133.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x157xmaxillaria_tenuifolia_gross.jpg.pagespeed.ic.vPY0aHmhGY.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-variabilis-var-dark-red-p-1441.html",
-    "price": "13.00 €",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maxillaria-variabilis-var-yellow-p-1376.html",
-    "price": "13.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x178xmaxillaria_variabilis_yellow_gross.jpg.pagespeed.ic.QSB8_nY21v.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/acineta-superba-p-1473.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x306xacineta_superba_gross.jpg.pagespeed.ic.mPaYVG-Vv9.jpg",
-    "description": "Young plant"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-ramosa-p-887.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x237xaeranthes_ramosa_gross.jpg.pagespeed.ic.rQL1Ro4gA4.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-houlletiana-fragrant-p-593.html",
-    "price": "27.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x181xaerides_houlletianum_gross.jpg.pagespeed.ic.0eTGAeCpOh.jpg",
-    "description": "Flowering size orchid, fragrant"
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-flabellata-p-1391.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x172xaerides_flabellata_gross.jpg.pagespeed.ic.eIz4N2qD-G.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/anathallis-linearifolia-p-1038.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xanathallis_linearifolia_gross.jpg.pagespeed.ic.XKiJ05lxDW.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/anathallis-pabstii-p-1239.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xanathallis_pabstii_gross.jpg.pagespeed.ic.qOeScuNYsH.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aspasia-lunata-p-233.html",
     "price": "18.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xaspasia_lunata_gross.jpg.pagespeed.ic.DDowDtYIjI.jpg",
-    "description": "Flowering size orchid,"
+    "description": "Flowering size orchid,",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-cucullata-p-750.html",
+    "price": "17.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbarbosella_cucullata_gross.jpg.pagespeed.ic.1weEn4i1cV.jpg",
+    "description": "Flowering size",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-handroi-p-234.html",
+    "price": "11.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x220xbarbosella_handroi_gross.jpg.pagespeed.ic.oV7xZC7jzx.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-harrisoniae-p-673.html",
+    "price": "15.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbifrenaria_harrisoniae_gross.jpg.pagespeed.ic.uIQp9_aRu_.jpg",
+    "description": "Flowering size, ca. 25cm",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-vitellina-p-1417.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbifrenaria_vitellina_gross.jpg.pagespeed.ic.wd3YLKjDE4.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/brassia-maculata-p-1481.html",
+    "price": "19.00 €",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/capanemia-micromera-p-1406.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/oncidium-johnesianum-p-926.html",
-    "price": "27.00 €",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/oncidium-limminghei-p-1462.html",
-    "price": "28.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x203xoncidium_limminghei_gross.jpg.pagespeed.ic.s4z6B-nKy5.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/oncidium-ornitorhynchum-p-270.html",
-    "price": "17.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xoncidium_ornithorhynchum_gross.jpg.pagespeed.ic.yIXxoAq_IX.jpg",
-    "description": "Flowering size, very stong plants with buds,"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pleione-lagenaria-natural-hybrid-p-1388.html",
-    "price": "35.00 €",
-    "description": "Flowering size orchid with buds or blooming"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "price": " €"
@@ -303,186 +109,306 @@
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-albida-p-1069.html",
     "price": "3.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_albida_gross.jpg.pagespeed.ic.1bLo0rLIw8.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_albida_gross.jpg.pagespeed.ic.1bLo0rLIw8.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-andreana-p-1444.html",
     "price": "6.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x210xtillandsia_andreana_gross.jpg.pagespeed.ic.7uUoE3_z85.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x210xtillandsia_andreana_gross.jpg.pagespeed.ic.7uUoE3_z85.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-crispa-p-772.html",
     "price": "7.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_crispa_gross.jpg.pagespeed.ic._t3hITzu5i.jpg",
-    "description": "Syn. Racinaea crispa, Flowering size"
+    "description": "Syn. Racinaea crispa, Flowering size",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-diaguitensis-fragrant-p-1343.html",
+    "price": "7.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x223xtillandsia_diaguitensis_gross.jpg.pagespeed.ic.4fIRFOheeB.jpg",
+    "description": "Flowering size",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-edithae-p-1341.html",
     "price": "13.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xtillandsia_edithae_gross.jpg.pagespeed.ic.ltvXbpfOc3.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xtillandsia_edithae_gross.jpg.pagespeed.ic.ltvXbpfOc3.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-flabellata-p-1279.html",
+    "price": "4.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_flabellata_gross.jpg.pagespeed.ic.bJje-sX38s.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-kautskyi-p-1435.html",
-    "price": "19.00 €"
+    "price": "19.00 €",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-secunda-p-1471.html",
+    "price": "8.00 €",
+    "description": "Young plant",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-sprengeliana-p-1342.html",
+    "price": "15.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x292xtillandsia_sprengeliana_gross.jpg.pagespeed.ic.RpLm2wJqtx.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-umbellata-p-674.html",
     "price": "11.50 €",
-    "description": "Flowering size, 10 - 15cm"
+    "description": "Flowering size, 10 - 15cm",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-usneoides-p-1072.html",
     "price": "5.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-usneoides-p-1073.html",
     "price": "7.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-xiphioides-fragrant-p-1423.html",
     "price": "6.50 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x239xtillandsia_xiphioides_gross.jpg.pagespeed.ic.84jhSSKm0Q.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x239xtillandsia_xiphioides_gross.jpg.pagespeed.ic.84jhSSKm0Q.jpg",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanda-keeree-sanderiana-boonchoo-p-617.html",
-    "price": "32.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xV_keeree_sanderianum_x_v_boonchoo_gross.jpg.pagespeed.ic.qSgyDa6664.jpg",
-    "description": "Flowering size"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanda-manuvadee-p-448.html",
-    "price": "29.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x206xvanda_manuvadee_gross.jpg.pagespeed.ic.MeqHEb_JFR.jpg",
-    "description": "Flowering size"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanda-royal-blue-p-1357.html",
-    "price": "36.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x214xvanda_royal_blue_gross.jpg.pagespeed.ic.cQvdB0KTw1.jpg",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tolumnia-variegata-p-1135.html",
+    "price": "13.00 €",
     "description": "Flowering size orchid"
   },
   {
     "price": " €"
   },
   {
-    "price": " €"
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/angraecum-aloifolium-p-1477.html",
+    "price": "12.01 €",
+    "description": "Young plant"
   },
   {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/chelonistele-maximae-reginae-p-1281.html",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/angraecum-erectum-p-1494.html",
     "price": "19.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xchelonistele_maxima_reginae_gross.jpg.pagespeed.ic.0Mw4EB_ZH2.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-cristata-p-106.html",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/angraecum-magdalenae-p-101.html",
+    "price": "12.01 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x267xangraecum_magdalenae2_gross.jpg.pagespeed.ic.hy9byvB6iD.jpg",
+    "description": "Young plant",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-amethystoglossa-p-86.html",
     "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x324xcoelogyne_cristata_gross.jpg.pagespeed.ic.zByNQavIEm.jpg",
-    "description": "Flowering size orchid"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x187xCattleya_amethystoglossa2_gross.jpg.pagespeed.ic.wnbrl_500a.jpg",
+    "description": "Young plant",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-aurantiaca-guarianthe-p-1188.html",
+    "price": "25.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x334xcattleya_aurantiaca_gross.jpg.pagespeed.ic.URp0nIL7jI.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-eldorado-ito-p-1192.html",
+    "price": "47.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x175xcattleya_eldorado_Ito_gross.jpg.pagespeed.ic.lCcUvFYssS.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-forbesii-p-88.html",
+    "price": "17.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x193xcattleya_forbesii4_gross.jpg.pagespeed.ic.C3B7zkXRn_.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-granulosa-p-1116.html",
+    "price": "25.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcattleya_granulosa_gross.jpg.pagespeed.ic.BoH_FumbnO.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-guttata-var-coerulea-p-1512.html",
+    "price": "39.00 €",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-intermedia-p-90.html",
+    "price": "20.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xcattleya_intermedia_gross.jpg.pagespeed.ic.4z8Dh_LrJl.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-intermedia-alba-p-91.html",
+    "price": "31.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x271xcattleya_intermedia_alba_gross.jpg.pagespeed.ic._i0f9eyUWh.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-intermedia-aquinii-p-455.html",
+    "price": "28.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcatt_intermedia_aqu_gross.jpg.pagespeed.ic.OQXQYULSLq.jpg",
+    "description": "Flowering size",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-intermedia-var-aquinii-coerulea-p-1182.html",
+    "price": "29.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcattleya_intermedia_var_aquinii_coerulea_gross.jpg.pagespeed.ic.9w6Xdvz-d-.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-intermedia-var-coerulea-p-1269.html",
+    "price": "27.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x247xcattleya_intermedia_var_coerulea_gross.jpg.pagespeed.ic.UKeFGMIyHu.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-labiata-var-alba-p-1519.html",
+    "price": "19.00 €",
+    "description": "Young plant, fs in one year",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "price": " €"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-fimbriata-p-107.html",
     "price": "8.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xcoelogyne_fimbriata_gross.jpg.pagespeed.ic.jOyq5pLGUe.jpg",
-    "description": "Flowering size orchid"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x204xcoelogyne_fimbriata_gross.jpg.pagespeed.ic.ttQLX471Xp.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-flaccida-p-685.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x237xcoelogyne_flaccida_gross.jpg.pagespeed.ic.HtUlMJyPQ4.jpg",
-    "description": "Flowering size, 15 - 17cm"
+    "description": "Flowering size, 15 - 17cm",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-hololeuca-p-1075.html",
     "price": "15.00 €",
-    "description": "Flowering size orchid"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x343xcoelogyne_hololeuca_gross.jpg.pagespeed.ic.9tTm-z2zPJ.jpg",
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-huettneriana-p-1051.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x199xcoelogyne_huettneriana_gross.jpg.pagespeed.ic.AsczpSf2Nc.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-massangeana-p-687.html",
     "price": "18.00 €",
-    "description": "Flowering size, 30 - 45cm"
+    "description": "Flowering size, 30 - 45cm",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-mooreana-p-1347.html",
     "price": "59.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x228xcoelogyne_mooreana_gross.jpg.pagespeed.ic.1Md-z_gHhZ.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-multiflora-p-930.html",
     "price": "47.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x165xCoelogyne_multiflora_gross.jpg.pagespeed.ic.O5ernopdCR.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-ochracea-p-108.html",
-    "price": "18.00 €",
+    "price": "12.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x259xcoelogyne_ochracea_gross.jpg.pagespeed.ic.cxHX6ddaWk.jpg",
-    "description": "Flowering size"
+    "description": "Flowering size",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-punctulata-p-1242.html",
+    "price": "17.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xcoelogyne_punctulata_gross.jpg.pagespeed.ic.IylXpHYMNn.jpg",
+    "description": "Flowering size orchid,fragrant",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-schilleriana-p-697.html",
-    "price": "19.00 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x218xcoelogyne_schilleriana_gross.jpg.pagespeed.ic.wm3FZpqlEC.jpg",
-    "description": "Flowering size, 6 - 11cm, Attention: the plan"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-usitana-p-574.html",
-    "price": "19.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x203xcoelogyne_usitana_gross.jpg.pagespeed.ic.zfMmfSCIoC.jpg",
-    "description": "Young plant, flowering size in one year"
+    "description": "Flowering size, 6 - 11cm, Attention: the plan",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-velutina-p-1480.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x200xcoelogyne_velutina_gross.jpg.pagespeed.ic.iwLg1dC5ev.jpg",
-    "description": "Flowering size orchid"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
+    "description": "Flowering size orchid",
+    "vendor": "Wlodarczyk",
+    "country": "Germany"
   },
   {
     "price": " €"

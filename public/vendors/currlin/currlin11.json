@@ -1,6 +1,13 @@
 [
 
   {
+    "title": "Gastrochilus retrocallus",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3580-gastrochilus-retrocallus-m.html",
+    "price": "14,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Haraella_retroca_51ec042569254.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
     "title": "Gastrorchis Georges Fleurié",
     "url": "https://www.currlin.com/en/online-shop/produkt/2933-gastrorchis-georges-fleurie.html",
     "price": "12,00 €",
@@ -85,6 +92,13 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Holcoglossum phongii",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3584-holcoglossum-phongii.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size in 2 years"
+  },
+  {
     "title": "Holcoglossum wangii",
     "url": "https://www.currlin.com/en/online-shop/produkt/1355-holcoglossum-wangii.html",
     "price": "12,50 €",
@@ -96,6 +110,13 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3346-holcoglossum-wangii-f.html",
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/holcoglossum-wangii-mittel.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Holcostylis M S Sunlight",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3341-holcostylis-m-s-sunlight.html",
+    "price": "21,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/holcostylis_m_s_sunlight_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   }
 ]

@@ -19,40 +19,40 @@ var x = Xray({
       return typeof value === 'string' ? value = value + " €" : value
   },
   }
-});
+}).delay(1000);
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
 var locals = res.locals;
-var links = ['http://www.elsner-orchideen.de/shop/index.php?cat=c9_Phalaenopsis-Hybrids-phalaenopsis-hybrids.html',
- 'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c27_Phalaenopsis-species-Phalaenopsis-Species.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c12_Brassavola-Brassavola.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c13_Broughtonia-Broughtonia.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c11_Cattleya-hybrids-Cattleya-Hybriden.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c15_Cattleya-Species-Cattleya-species.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c22_Laelia-Laelia.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c29_Sophronitis-Sophronitis.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c25_Paphiopedilum-hybrids-Paphiopedilum-Hybriden.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c26_Paphiopedilum-Species-Paphiopedilum-species.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c28_Phragmipedium-Phragmipedium.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c17_Dendrobium-Dendrobium.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c3_Aerangis-Aerangis.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c4_Aeranthes-Aeranthes-english.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c5_Aerides-Aerides.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c6_Angraecum-Angraecum.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c20_Jumella-Jumella.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c1_other-species-other-species.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c14_Bulbophyllum-Bulbophyllum.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c30_Catasetum-Catasetum.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c16_Coelogyne-Coelogyne.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c31_Encyclia-Encyclia.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c35_Lycastinae-Lycaste.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c23_Masdevallia-Masdevallia.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c32_Maxillaria-Maxillaria.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c19_Oncidium-Oncidium.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c33_Stanhopea-Stanhopea.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c7_Vanda-Vanda.html',
-'http://www.elsner-orchideen.de/shop/index.php?language=en&cat=c37_flasks-flasks-orchids.html'
+var links = ['https://www.elsner-orchideen.de/Phalaenopsis/phalaenopsis-hybrids/?language=en&cat=c9&cPath=8_9',
+ 'https://www.elsner-orchideen.de/Phalaenopsis/Phalaenopsis-Species/?language=en&cat=c27&cPath=8_27',
+'https://www.elsner-orchideen.de/Cattleya/Brassavola/?language=en&cat=c12&cPath=10_12',
+'https://www.elsner-orchideen.de/Cattleya/Broughtonia/?language=en&cat=c13&cPath=10_13',
+'https://www.elsner-orchideen.de/Cattleya/Cattleya-Hybriden/?language=en&cat=c11&cPath=10_11',
+'https://www.elsner-orchideen.de/Cattleya/Cattleya-species/?language=en&cat=c15&cPath=10_15',
+'https://www.elsner-orchideen.de/Cattleya/Laelia/?language=en&cat=c22&cPath=10_22',
+'https://www.elsner-orchideen.de/Cattleya/Sophronitis/?language=en&cat=c29&cPath=10_29',
+'https://www.elsner-orchideen.de/Paphiopedilum/Paphiopedilum-Hybriden/?language=en&cat=c25&cPath=24_25',
+'https://www.elsner-orchideen.de/Paphiopedilum/Paphiopedilum-species/?language=en&cat=c26&cPath=24_26',
+'https://www.elsner-orchideen.de/Paphiopedilum/Phragmipedium/?language=en&cat=c28&cPath=24_28',
+'https://www.elsner-orchideen.de/Dendrobium/?language=en&cat=c17&cPath=17',
+'https://www.elsner-orchideen.de/african-species/Aerangis/?language=en&cat=c3&cPath=2_3',
+'https://www.elsner-orchideen.de/african-species/Aeranthes-english/?language=en&cat=c4&cPath=2_4',
+'https://www.elsner-orchideen.de/african-species/Aerides/?language=en&cat=c5&cPath=2_5',
+'https://www.elsner-orchideen.de/african-species/Angraecum/?language=en&cat=c6&cPath=2_6',
+'https://www.elsner-orchideen.de/african-species/Jumella/?language=en&cat=c20&cPath=2_20',
+'https://www.elsner-orchideen.de/other-species/?language=en&cat=c1&cPath=1',
+'https://www.elsner-orchideen.de/Bulbophyllum/?language=en&cat=c14&cPath=14',
+'https://www.elsner-orchideen.de/Catasetum/?language=en&cat=c30&cPath=30',
+'https://www.elsner-orchideen.de/Coelogyne/?language=en&cat=c16&cPath=16',
+'https://www.elsner-orchideen.de/Encyclia/?language=en&cat=c31&cPath=31',
+'https://www.elsner-orchideen.de/Lycaste/?language=en&cat=c35&cPath=35',
+'https://www.elsner-orchideen.de/Masdevallia/?language=en&cat=c23&cPath=23',
+'https://www.elsner-orchideen.de/Maxillaria/?language=en&cat=c32&cPath=32',
+'https://www.elsner-orchideen.de/Oncidium/?language=en&cat=c19&cPath=19',
+'https://www.elsner-orchideen.de/Stanhopea/?language=en&cat=c33&cPath=33',
+'https://www.elsner-orchideen.de/Vanda/?language=en&cat=c7&cPath=7',
+'https://www.elsner-orchideen.de/flasks-orchids/?language=en&cat=c37&cPath=37'
 ];
 var qfiles;
 var vendor;
@@ -60,18 +60,18 @@ var vendor;
 view.on('init', function(next){
 console.log('start');
 links.forEach(function(link, i){
-x(link, '.article-list-item',[{
-title: 'h2 > a',
+x(link, '.product-container',[{
+title: '.title | trim',
 image: 'img@src',
-url: 'h2 a@href| trim',
-price: '.gm_price | replace | symbol',
+url: '.title a@href| trim',
+price: '.price | replace | symbol',
 //discription: '.article-list-item-main p'
-description: '.article-list-item-main p | trim'
+description: '.description | trim'
 }])
-.paginate('.panel-pagination strong + a@href')
+.paginate('.pagination li:last-child a@href')
 .write('./public/vendors/elsner/elsner' + i + '.json')
 });
-console.log("psrsind is DONE");
+console.log("parsind is DONE");
 next();
 });
 

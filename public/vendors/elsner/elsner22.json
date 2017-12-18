@@ -2,70 +2,55 @@
 
   {
     "title": "Anguloa clowesii",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Anguloa%20clowesii.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1624_anguloa-clowesii.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Anguloa-clowesii.jpg",
+    "url": "https://www.elsner-orchideen.de/anguloa-clowesii.html",
     "price": "19,95 €"
   },
   {
+    "title": "Anguloa eburnea",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Anguloa-erburnea.jpg",
+    "url": "https://www.elsner-orchideen.de/anguloa-eburnea.html",
+    "price": "22,90 €"
+  },
+  {
     "title": "Bifrenaria aureo fulva",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/bifrenaria_aureo_fulva.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p49_bifrenaria-aureo-fulva.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/bifrenaria_aureo_fulva.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Bifrenaria-aureo-fulva.html",
     "price": "12,00 €",
     "description": "blooming size"
   },
   {
-    "title": "Lycaste Abou First Spring 'Will'",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Lycaste%20Abou%20First%20Spring%20%27Will%27.JPG",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1738_lycaste-abou-first-spring--will-.html",
-    "price": "32,90 €"
-  },
-  {
     "title": "Lycaste deppei",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/lycaste_deppei.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1025_lycaste-deppei.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycaste_deppei.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-deppei.html",
     "price": "18,90 €",
     "description": "near blooming size,"
   },
   {
     "title": "Lycaste dowiana",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/lycaste_dowiana.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1043_lycaste-dowiana.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycaste_dowiana.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-dowiana.html",
     "price": "24,90 €",
     "description": "blooming size,import"
   },
   {
     "title": "Lycaste lasioglossa",
-    "image": "http://www.elsner-orchideen.de/shop/admin/html/assets/images/legacy/icons/Grün.png",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1044_lycaste-lasioglossa.html",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-lasioglossa.html",
     "price": "17,95 €",
     "description": "blooming size"
   },
   {
     "title": "Lycaste reichenbachii",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/lycastereichenbachii.jpg",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1397_lycaste-reichenbachii.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycastereichenbachii.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-reichenbachii.html",
     "price": "22,90 €",
     "description": "blooming size"
   },
   {
     "title": "Lycaste xytriophora",
-    "image": "http://www.elsner-orchideen.de/shop/images/product_images/thumbnail_images/Lycaste%20xytriophora.JPG",
-    "url": "http://www.elsner-orchideen.de/shop/product_info.php?info=p1708_lycaste-xytriophora.html",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Lycaste%20xytriophora.JPG",
+    "url": "https://www.elsner-orchideen.de/lycaste-xytriophora.html",
     "price": "24,95 €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

@@ -19,7 +19,7 @@ var x = Xray({
     return typeof value === 'string' ? value = value + " €" : value
 },
   },
-});
+}).delay(1000);;
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
@@ -39,7 +39,7 @@ title: '.name a | trim',
 url: 'a@href | trim',
 price: '.jshop_price span | trim | replace | trim | symbol',
 image: '.image_block img@src',
-description: x('a@href', '#comjshop > form > div.jshop_prod_description > p > font > font'), 
+description: '.description | trim',
 }])
 .paginate('.jsn-pagination li:nth-last-child(2) > a@href')
 .write('./public/vendors/wossner/wossner' + i + '.json')

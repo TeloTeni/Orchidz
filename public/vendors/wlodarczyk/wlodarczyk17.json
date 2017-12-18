@@ -4,31 +4,32 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/acineta-superba-p-1473.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x306xacineta_superba_gross.jpg.pagespeed.ic.mPaYVG-Vv9.jpg",
-    "description": "Young plant"
+    "description": "Young plant",
+    "title": "Acineta superba"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-henrici-p-299.html",
-    "price": "28.00 €",
-    "description": "Young plant",
-    "title": "Aeranthes henrici"
+    "price": "19.95 €",
+    "description": "Young plant"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-ramosa-p-887.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x237xaeranthes_ramosa_gross.jpg.pagespeed.ic.rQL1Ro4gA4.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Aeranthes ramosa"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-flabellata-p-1391.html",
     "price": "23.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x172xaerides_flabellata_gross.jpg.pagespeed.ic.eIz4N2qD-G.jpg",
-    "title": "Aerides flabellata"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x172xaerides_flabellata_gross.jpg.pagespeed.ic.eIz4N2qD-G.jpg"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-houlletiana-fragrant-p-593.html",
     "price": "27.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x181xaerides_houlletianum_gross.jpg.pagespeed.ic.0eTGAeCpOh.jpg",
-    "description": "Flowering size orchid, fragrant"
+    "description": "Flowering size orchid, fragrant",
+    "title": "Aerides houlletiana, fragrant"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/anathallis-linearifolia-p-1038.html",
@@ -52,22 +53,19 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-cucullata-p-750.html",
     "price": "17.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbarbosella_cucullata_gross.jpg.pagespeed.ic.1weEn4i1cV.jpg",
-    "description": "Flowering size",
-    "title": "Barbosella cucullata"
+    "description": "Flowering size"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-handroi-p-234.html",
-    "price": "18.00 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x220xbarbosella_handroi_gross.jpg.pagespeed.ic.oV7xZC7jzx.jpg",
-    "description": "Flowering size orchid",
-    "title": "Barbosella handroi"
+    "description": "Flowering size orchid"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-harrisoniae-p-673.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbifrenaria_harrisoniae_gross.jpg.pagespeed.ic.uIQp9_aRu_.jpg",
-    "description": "Flowering size, ca. 25cm",
-    "title": "Bifrenaria harrisoniae"
+    "description": "Flowering size, ca. 25cm"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-vitellina-p-1417.html",
@@ -78,8 +76,7 @@
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/brassia-maculata-p-1481.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid",
-    "title": "Brassia maculata"
+    "description": "Flowering size orchid"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/capanemia-micromera-p-1406.html",
@@ -94,11 +91,25 @@
   }
 ,
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/ceratochilus-biglandulosus-p-705.html",
+    "price": "17.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x317xceratochilus_biglanduosus_gross.jpg.pagespeed.ic.moDSOB2jBm.jpg",
+    "description": "Flowering size, 2 - 4cm",
+    "title": "Ceratochilus biglandulosus"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/ceratostylis-philippinensis-p-1493.html",
-    "price": "15.00 €",
+    "price": "9.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x276xceratostylis_philippinensis_gross.jpg.pagespeed.ic.fOAHCMv12D.jpg",
     "description": "Flowering size orchid",
     "title": "Ceratostylis philippinensis"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/chiloschista-lunifera-p-1092.html",
+    "price": "25.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x354xchiloschista_lunifera_dark_red_gross.jpg.pagespeed.ic.g_e8QXkVkF.jpg",
+    "description": "Flowering size orchid",
+    "title": "Chiloschista lunifera"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/chiloschista-parishii-p-1390.html",
@@ -108,10 +119,10 @@
     "title": "Chiloschista parishii"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/chondrorhyncha-caloglossa-p-1516.html",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/chondrorhyncha-lendyana-p-1516.html",
     "price": "17.00 €",
     "description": "Flowering size orchid",
-    "title": "Chondrorhyncha caloglossa"
+    "title": "Chondrorhyncha lendyana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cleisostoma-scolopendrifolium-p-309.html",
@@ -128,7 +139,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/comparettia-macroplectron-p-470.html",
-    "price": "17.95 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcomparettia_macroplectron_gross.jpg.pagespeed.ic.XtgJl7v7US.jpg",
     "description": "Flowering size orchid",
     "title": "Comparettia macroplectron"
@@ -176,8 +187,16 @@
     "title": "Dresslerella pilosissima"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dryadella-edwallii-p-245.html",
+    "price": "11.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x172xdryadella_edwallii_gross.jpg.pagespeed.ic.HXFDao2-TO.jpg",
+    "description": "Flowering size orchid",
+    "title": "Dryadella edwallii"
+  }
+,
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dryadella-simula-p-545.html",
-    "price": "14.00 €",
+    "price": "9.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x268xdryadella_simula_gross.jpg.pagespeed.ic.FGqFVirQcA.jpg",
     "description": "Flowering size orchid",
     "title": "Dryadella simula"
@@ -194,13 +213,19 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xencyclia_alata_gross.jpg.pagespeed.ic.VZ95ZLtBE8.jpg",
     "description": "Flowering size orchid",
     "title": "Encyclia alata"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/encyclia-cordigera-p-927.html",
     "price": "19.00 €",
     "description": "Flowering size orchid",
     "title": "Encyclia cordigera"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/encyclia-mariae-p-1292.html",
+    "price": "11.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x211xencyclia_mariae_gross.jpg.pagespeed.ic.6lf-CCu6NE.jpg",
+    "description": "Flowering size in one year",
+    "title": "Encyclia mariae"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/epidendrum-capricornu-p-913.html",
@@ -217,6 +242,12 @@
     "title": "Epidendrum ciliare"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/epidendrum-prismatocarpum-p-1556.html",
+    "price": "19.00 €",
+    "description": "Flowering size orchid",
+    "title": "Epidendrum prismatocarpum"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/epigeneium-chapaense-p-253.html",
     "price": "17.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x175xepigeneium_chapaense_gross.jpg.pagespeed.ic._HCHRMYXnE.jpg",
@@ -225,7 +256,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/epigineum-nakaharae-p-1238.html",
-    "price": "17.95 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x217xepigineum_naganara_gross.jpg.pagespeed.ic.vzLg3UrrgX.jpg",
     "title": "Epigineum nakaharae"
   },
@@ -252,11 +283,19 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/holcoglossum-kimballianum-p-1032.html",
-    "price": "19.00 €",
+    "price": "13.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x268xholcoglossum_kimballianum2_gross.jpg.pagespeed.ic.11Iq3jT0vL.jpg",
     "description": "Beautiful, robust and easy to care orchid wit",
     "title": "Holcoglossum kimballianum"
   },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/holcoglossum-wangii-p-771.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x246xholcoglossum_wangii_gross.jpg.pagespeed.ic.TK0DEW0ioU.jpg",
+    "description": "Flowering size",
+    "title": "Holcoglossum wangii"
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/ionopsis-utricularioides-p-1226.html",
     "price": "16.00 €",
@@ -266,7 +305,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/isabellia-virginalis-p-257.html",
-    "price": "19.00 €",
+    "price": "13.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xisabella_virginalis_gross.jpg.pagespeed.ic.iUFCt070Iy.jpg",
     "description": "Flowering size orchid",
     "title": "Isabellia virginalis"
@@ -274,8 +313,22 @@
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/lepanthes-caprimulgos-p-1517.html",
     "price": "26.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x264xlepanthes_caprimulgos_gross.jpg.pagespeed.ic.iJWbZdqvvs.jpg",
     "description": "Flowering size orchid",
     "title": "Lepanthes caprimulgos"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/lepanthes-escobariana-p-1555.html",
+    "price": "29.00 €",
+    "description": "Flowering size orchid",
+    "title": "Lepanthes escobariana"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/lepanthes-gorgoyla-p-1544.html",
+    "price": "28.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x164xlepanthes_gorgoyla_gross.jpg.pagespeed.ic.n39VgDsgdD.jpg",
+    "description": "Flowering size orchid",
+    "title": "Lepanthes gorgoyla"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/leptotes-pohlitinocoi-p-1224.html",
@@ -286,7 +339,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/lockhartia-lunifera-p-258.html",
-    "price": "15.00 €",
+    "price": "9.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x192xlockhartia_lunifera_gross.jpg.pagespeed.ic.T6VYT4yWA_.jpg",
     "description": "Flowering size orchid",
     "title": "Lockhartia lunifera"
@@ -297,11 +350,17 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x228xlycaste_lasioglossa_gross.jpg.pagespeed.ic.gxBLnlRa3P.jpg",
     "description": "Flowering size",
     "title": "Lycaste lasioglossa"
-  }
-,
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/maleola-baliensis-p-260.html",
+    "price": "9.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x279xmaleola_baliensis_gross.jpg.pagespeed.ic.-7S5K3vXFd.jpg",
+    "description": "Flowering size",
+    "title": "Maleola baliensis"
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/mediocalcar-bifolium-p-1346.html",
-    "price": "19.00 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x313xmediocalcar_bifolium_gross.jpg.pagespeed.ic.nsUgFew7HF.jpg",
     "description": "Flowering size orchid",
     "title": "Mediocalcar bifolium"
@@ -321,6 +380,13 @@
     "title": "Meiracyllium trinasutum"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/miltonia-clowesi-p-262.html",
+    "price": "18.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x308xmiltonia_clowesii_gross.jpg.pagespeed.ic.UNM966zztd.jpg",
+    "description": "Flowering size orchid",
+    "title": "Miltonia clowesi"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/miltonia-flavescens-p-263.html",
     "price": "16.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x292xmiltonia_flavescens_gross.jpg.pagespeed.ic.9AAHS8h4AZ.jpg",
@@ -333,7 +399,8 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x263xmiltonia_phalaenopsis_gross.jpg.pagespeed.ic.Gtvie5m9h6.jpg",
     "description": "Flowering size orchid",
     "title": "Miltonia phalaenopsis"
-  },
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/miltonia-spectabilis-p-264.html",
     "price": "13.00 €",
@@ -356,7 +423,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/neofinetia-falcata-p-586.html",
-    "price": "19.00 €",
+    "price": "13.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x215xneofinetia_falcata_gross.jpg.pagespeed.ic.n_Gs1Z4fXe.jpg",
     "description": "Flowering size orchid",
     "title": "Neofinetia falcata"
@@ -390,20 +457,12 @@
     "title": "Oberonia caulescens"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/oberonia-myosurus-p-1340.html",
-    "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xoberonia_myosurus_gross.jpg.pagespeed.ic.3tfprPZtHO.jpg",
-    "description": "Flowering size orchid",
-    "title": "Oberonia myosurus"
-  },
-  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/odontoglossum-rhynchosthele-rossii-p-1336.html",
     "price": "13.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xodontoglossum_rhynchosthele_rossii_gross.jpg.pagespeed.ic._4ZG0MECcI.jpg",
     "description": "Flowering size in one year",
     "title": "Odontoglossum (Rhynchosthele) rossii"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/odontoglossum-crocidipterum-p-1474.html",
     "price": "15.00 €",
@@ -440,11 +499,12 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pholidota-carnea-var-parviflora-p-1382.html",
-    "price": "15.00 €",
+    "price": "7.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xpholidota_carnea_var_parviflora_gross.jpg.pagespeed.ic.ReIUP-Q9KM.jpg",
     "description": "Flowering size orchid",
     "title": "Pholidota carnea var. parviflora"
-  },
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pholidota-sinensis-p-1036.html",
     "price": "15.00 €",
@@ -489,7 +549,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pleurothallis-hemirhoda-p-1400.html",
-    "price": "19.00 €",
+    "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xpleurothallis_hemirhoda_gross.jpg.pagespeed.ic.As684v8Ezo.jpg",
     "description": "Flowering size orchid",
     "title": "Pleurothallis hemirhoda"
@@ -507,8 +567,14 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x218xpleurothallis_loranthophylla_gross.jpg.pagespeed.ic.Htz_rwnFHs.jpg",
     "description": "Flowering size orchid",
     "title": "Pleurothallis loranthophylla"
-  }
-,
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pleurothallis-megalops-p-1540.html",
+    "price": "18.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x178xpleurothallis_megalops_gross.jpg.pagespeed.ic.qY0uuDqff1.jpg",
+    "description": "Flowering size orchid",
+    "title": "Pleurothallis megalops"
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pleurothallis-palliolata-p-1488.html",
     "price": "15.00 €",
@@ -543,7 +609,8 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xPleurothallis_tribuloides_gross.jpg.pagespeed.ic.wxNoIdYbzL.jpg",
     "description": "Flowering size orchid",
     "title": "Pleurothallis tribuloides"
-  },
+  }
+,
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/pleurothallis-truncata-p-908.html",
     "price": "23.00 €",
@@ -580,17 +647,17 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/renanthera-phillipinensis-p-592.html",
-    "price": "35.00 €",
+    "price": "19.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x280xRenanthera_philippinensis_gross.jpg.pagespeed.ic.v0AnFQcIe_.jpg",
     "description": "Flowering size orchid",
     "title": "Renanthera phillipinensis"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/restrepia-lansbergii-p-1034.html",
-    "price": "17.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xrestrepia_lansbergii_gross.jpg.pagespeed.ic.bLNXUC9dhd.jpg",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/restrepia-contorta-p-1042.html",
+    "price": "16.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x230xrestrepia_contorta_gross.jpg.pagespeed.ic.SakfL2Aqk2.jpg",
     "description": "Flowering size orchid",
-    "title": "Restrepia lansbergii"
+    "title": "Restrepia contorta"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/restrepia-muscifera-xanthophthalmadayana-p-1173.html",
@@ -612,8 +679,7 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x303xrestrepia_striata_gross.jpg.pagespeed.ic.nhrOyzrpQG.jpg",
     "description": "Flowering size",
     "title": "Restrepia striata"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhyncholaelia-digbyana-p-762.html",
     "price": "27.00 €",
@@ -629,18 +695,40 @@
     "title": "Rhyncholaelia glauca"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhynchostylis-coelestis-p-554.html",
+    "price": "15.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x383xrhyn_coelestis_gross.jpg.pagespeed.ic.RJ3xMxwd2a.jpg",
+    "description": "Flowering size orchid",
+    "title": "Rhynchostylis coelestis"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhynchostylis-gigantea-spotti-p-1497.html",
-    "price": "28.00 €",
+    "price": "22.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xrhynchostylis_gigantea_spotti_gross.jpg.pagespeed.ic.uQXOKe8e_F.jpg",
     "description": "Flowering size orchid",
     "title": "Rhynchostylis gigantea ,Spotti'"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhynchostylis-gigantea-alba-p-590.html",
+    "price": "23.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xrhynchostylis_gigantea_alba_gross.jpg.pagespeed.ic.JkI0WxcBz_.jpg",
+    "description": "Flowering size orchid",
+    "title": "Rhynchostylis gigantea alba"
+  }
+,
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhynchostylis-gigantea-var-devarajunii-p-734.html",
-    "price": "25.00 €",
+    "price": "21.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x163xrhynchostylis_gigantea_devarajunii_gross.jpg.pagespeed.ic.6Xs4ec7523.jpg",
     "description": "Flowering size orchid",
     "title": "Rhynchostylis gigantea var. devarajunii"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rhynchostylis-gigantea-var-cartoon-p-1558.html",
+    "price": "22.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xrhynchostylis_gigantea_var_cartoon_gross.jpg.pagespeed.ic.GtdMoStHuN.jpg",
+    "description": "Flowering size orchid",
+    "title": "Rhynchostylis gigantea var.: ,Cartoon'"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/rossioglossum-grande-p-285.html",
@@ -667,6 +755,12 @@
     "price": "15.00 €",
     "description": "Flowering size",
     "title": "Scaphosepalum breve"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/scaphosepalum-gibberosum-p-1554.html",
+    "price": "25.00 €",
+    "description": "Flowering size orchid",
+    "title": "Scaphosepalum gibberosum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/scaphosepalum-martinae-p-1164.html",
@@ -703,11 +797,11 @@
     "title": "Schoenorchis tixieri"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/seidenfadenia-mitrata-p-1157.html",
-    "price": "27.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x229xseidenfadenia_mitrata_gross.jpg.pagespeed.ic.P4zLJyTmPT.jpg",
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sievekingia-fimbriata-p-1543.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x226xsievekingia_fimbriata_gross.jpg.pagespeed.ic.U5_MzHVB68.jpg",
     "description": "Flowering size orchid",
-    "title": "Seidenfadenia mitrata"
+    "title": "Sievekingia fimbriata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sigmatostalix-radicans-p-795.html",
@@ -715,14 +809,21 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xSigmatostalix_radicans_gross.jpg.pagespeed.ic.aAdXk3qziy.jpg",
     "description": "Flowering size, well growing plant width up t",
     "title": "Sigmatostalix radicans"
-  }
-,
+  },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sophronitella-violacea-p-914.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xsophronitella_violacea_gross.jpg.pagespeed.ic.nnI8992Zsi.jpg",
     "description": "Flowering size orchid",
     "title": "Sophronitella violacea"
+  }
+,
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sophronitis-brevipedunculata-p-563.html",
+    "price": "35.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x236xsophronitis_brevipedunculata_gross.jpg.pagespeed.ic.rY5n2y2ZF3.jpg",
+    "description": "Flowering size orchid",
+    "title": "Sophronitis brevipedunculata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sophronitis-cernua-orange-p-1408.html",
@@ -743,13 +844,6 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x166xsophronitis_coccinea_gross.jpg.pagespeed.ic.YHsy_NEtsg.jpg",
     "description": "Young plant",
     "title": "Sophronitis coccinea"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/sophronitis-coccinea-var-flava-p-1163.html",
-    "price": "79.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xsophronitis_coccinea_var_flava_gross.jpg.pagespeed.ic.CTfDyR42hf.jpg",
-    "description": "Flowering size!, compact plant with beautiful",
-    "title": "Sophronitis coccinea var.: flava"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/specklinia-spec-venezuela-p-1169.html",
@@ -779,8 +873,15 @@
     "title": "Stanhopea tigrina"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/stanhopea-tigrina-p-1384.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x199xstanhopea_tigrina_gross.jpg.pagespeed.ic.s45vFKw6_i.jpg",
+    "description": "Flowering size orchid",
+    "title": "Stanhopea tigrina"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/stelis-drosophila-p-1291.html",
-    "price": "11.95 €",
+    "price": "6.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xstelis_drosophila_gross.jpg.pagespeed.ic.iSCaFAxEFi.jpg",
     "description": "Flowering size orchid",
     "title": "Stelis drosophila"
@@ -801,7 +902,7 @@
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/trichoglottis-triflora-p-421.html",
-    "price": "16.00 €",
+    "price": "9.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x220xtrichoglottis_triflora_gross.jpg.pagespeed.ic.s5ZQ2ERFvE.jpg",
     "description": "Flowering size orchid",
     "title": "Trichoglottis triflora"
@@ -843,18 +944,25 @@
     "title": "Trisetella hoeijeri"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/trisetella-scobina-p-1404.html",
+    "price": "17.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x316xtrisetella_scobina_gross.jpg.pagespeed.ic.D2klZ4e-7O.jpg",
+    "description": "Flowering size orchid",
+    "title": "Trisetella scobina"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/trisetella-triaristella-p-1542.html",
+    "price": "19.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x199xtrisetella_triaristella_gross.jpg.pagespeed.ic.kIJESahv7r.jpg",
+    "description": "Flowering size orchid",
+    "title": "Trisetella triaristella"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/uncifera-thailandica-p-1351.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x245xuncifera_thailandica_gross.jpg.pagespeed.ic.YW0MjavPpK.jpg",
     "description": "Flowering size orchid",
     "title": "Uncifera thailandica"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanilla-planifolia-p-799.html",
-    "price": "17.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xvanilla_planifolia_gross.jpg.pagespeed.ic.6AATkSTiz9.jpg",
-    "description": "1 - 2 years to flowering size",
-    "title": "Vanilla planifolia"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/warmingia-eugenii-p-1371.html",
@@ -864,16 +972,16 @@
     "title": "Warmingia eugenii"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/zootrophion-dayanum-p-1557.html",
+    "price": "18.00 €",
+    "description": "Flowering size orchid",
+    "title": "Zootrophion dayanum"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/zootrophion-hypodiscus-p-473.html",
     "price": "18.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x199xzootrophion_hypodiscus_gross.jpg.pagespeed.ic.YCtxPqPoRp.jpg",
     "description": "Flowering size",
     "title": "Zootrophion hypodiscus"
-  },
-  {
-    "price": " €"
-  },
-  {
-    "price": " €"
   }
 ]

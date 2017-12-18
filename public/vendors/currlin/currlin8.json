@@ -1,13 +1,6 @@
 [
 
   {
-    "title": "Acianthera bragae",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3335-acianthera-bragae.html",
-    "price": "16,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/acianthera_bragae_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Acianthera prolifera",
     "url": "https://www.currlin.com/en/online-shop/produkt/3334-acianthera-prolifera.html",
     "price": "14,00 €",
@@ -50,6 +43,13 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Aerangis punctata",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2584-aerangis-punctata.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/aerangis-punctata.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
     "title": "Aerides falcata",
     "url": "https://www.currlin.com/en/online-shop/produkt/1254-aerides-falcata.html",
     "price": "17,50 €",
@@ -62,13 +62,6 @@
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/amesiella_monticola_currlin_orchideen.jpg",
     "description": "flowering size in 1 year"
-  },
-  {
-    "title": "Ancistrochilus rothschildianus",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3368-ancistrochilus-rothschildianus.html",
-    "price": "19,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/ancistrochilus_rothschildianus_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
   },
   {
     "title": "Angraecum didieri",
@@ -113,13 +106,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Ansellia africana",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3403-ansellia-africana-p13.html",
-    "price": "38,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/ansellia_africana_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Aspasia lunata",
     "url": "https://www.currlin.com/en/online-shop/produkt/1229-aspasia-lunata-m.html",
     "price": "12,50 €",
@@ -155,13 +141,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Barkeria Jim Balch",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2829-barkeria-jim-balch.html",
-    "price": "17,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/barkeria_jim_balch_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Barkeria Marsh Mela x fritz-halbingeriana",
     "url": "https://www.currlin.com/en/online-shop/produkt/2028-barkeria-marsh-mela-x-fritz-halbingeriana-m.html",
     "price": "12,50 €",
@@ -174,8 +153,7 @@
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/barkeria_marsh-mela_x_fritz-halbingeriana_gro.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Barkeria melanocaulon",
     "url": "https://www.currlin.com/en/online-shop/produkt/2749-barkeria-melanocaulon.html",
@@ -196,7 +174,8 @@
     "price": "12,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/barkeria_melanocaulon_x_obosa_ivory_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
     "title": "Barkeria melanocaulon x Obosa Ivory",
     "url": "https://www.currlin.com/en/online-shop/produkt/2663-barkeria-melanocaulon-x-obosa-ivory.html",
@@ -216,20 +195,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/1271-barkeria-scandens-xl.html",
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Barkeria_scanden_4cca7400d4649.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Barkeria skinneri 4N",
-    "url": "https://www.currlin.com/en/online-shop/produkt/1272-barkeria-skinneri-4n.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Barkeria_skinner_503bd13230f30.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Barkeria skinneri 4N",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2824-barkeria-skinneri-4n-p13.html",
-    "price": "18,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Barkeria_skinner_503bd13230f30.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -265,13 +230,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/1276-brassavola-subulifolia-syn-cordata.html",
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Brassavola_corda_4cca74a9692ed.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Brassia verrucosa",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2657-brassia-verrucosa.html",
-    "price": "19,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/brassia_verrucosa_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -331,13 +289,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Bulbophyllum echinolabium",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2617-bulbophyllum-echinolabium-cut.html",
-    "price": "6,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Bulbophyllum_ech_4cda700505719.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Bulbophyllum Elizabeth Ann 'Buckleberry'",
     "url": "https://www.currlin.com/en/online-shop/produkt/3432-bulbophyllum-elizabeth-ann-buckleberry.html",
     "price": "18,00 €",
@@ -350,8 +301,7 @@
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/bulbophyllum_frostii_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Bulbophyllum frostii",
     "url": "https://www.currlin.com/en/online-shop/produkt/3272-bulbophyllum-frostii-p8.html",
@@ -400,7 +350,8 @@
     "price": "17,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/bulbophyllum-lobbii-gro.jpg",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
     "title": "Bulbophyllum lobbii",
     "url": "https://www.currlin.com/en/online-shop/produkt/2606-bulbophyllum-lobbii-ts.html",
@@ -448,6 +399,13 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3201-bulbophyllum-mirum-m.html",
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Bulbophyllum_mir_4e8562f799831.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Bulbophyllum pecten-veneris",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3590-bulbophyllum-pecten-veneris.html",
+    "price": "14,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
   },
   {

@@ -11,9 +11,16 @@ var x = Xray({
     },
     slice: function (value, start , end) {
       return typeof value === 'string' ? value.slice(start, end) : value
+    },
+    cutEnter: function (value, start , end) {
+            return typeof value === 'string' ? value.replace('\n\n', " ") : value
+    },
+    cutDesc: function (value, start , end) {
+            return typeof value === 'string' ? value.replace('\b\spicture of flower is an example', " ") : value
     }
   }
-});
+
+}).delay(1000);;
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
@@ -36,7 +43,7 @@ title: 'h3 > a | trim',
 image: 'img@src',
 url: 'a@href | trim',
 price: '.price-value | trim | slice:0,-1 | trim',
-description: '.Description | trim'
+description: '.Description | cutEnter | cutDesc | trim'
 }])
 .paginate('.PagerSizeContainer .Current + li a@href')
 .write('./public/vendors/msb/msb' + i + '.json')

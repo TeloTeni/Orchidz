@@ -8,13 +8,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Macradenia multiflora",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3413-macradenia-multiflora-m.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/macradenia_multiflora_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Masdevallia attenuata",
     "url": "https://www.currlin.com/en/online-shop/produkt/3407-masdevallia-attenuata.html",
     "price": "15,00 €",
@@ -57,6 +50,20 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Masdevallia exquisita",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3574-masdevallia-exquisita.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_exquisita_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Masdevallia glandulosa",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3571-masdevallia-glandulosa.html",
+    "price": "18,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_glandulosa_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
     "title": "Masdevallia herradurae",
     "url": "https://www.currlin.com/en/online-shop/produkt/3076-masdevallia-herradurae.html",
     "price": "15,00 €",
@@ -68,13 +75,6 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3077-masdevallia-herradurae-m.html",
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_herradurae_currlin_orchideen.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Masdevallia hieroglyphica",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2429-masdevallia-hieroglyphica.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia-hieroglyphica-gro.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -103,6 +103,27 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/3078-masdevallia-measuresiana-p9.html",
     "price": "9,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_measuresiana_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Masdevallia nidifica",
+    "url": "https://www.currlin.com/en/online-shop/produkt/2434-masdevallia-nidifica-t6.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_nidifica_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Masdevallia Orange Stripe",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3573-masdevallia-orange-stripes.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_orange_stripe_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Masdevallia Purple Hybride",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3575-masdevallia-purple-hybride.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_purple_hybride_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -141,13 +162,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Masdevallia striatella",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2435-masdevallia-striatella.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia-striatella-gro.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Masdevallia Sugar Baby",
     "url": "https://www.currlin.com/en/online-shop/produkt/3080-masdevallia-sugar-baby-p9.html",
     "price": "12,50 €",
@@ -160,12 +174,13 @@
     "price": "12,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
-    "title": "Masdevallia triangularis",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3372-masdevallia-triangularis.html",
-    "price": "15,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_triangularis_currlin_orchideen.jpg",
+    "title": "Masdevallia xanthina",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3572-masdevallia-xanthina.html",
+    "price": "18,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/masdevallia_xanthina_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -174,8 +189,7 @@
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/maxillaria_rufescens_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  }
-,
+  },
   {
     "title": "Maxillaria densa",
     "url": "https://www.currlin.com/en/online-shop/produkt/1370-maxillaria-densa.html",
@@ -284,13 +298,6 @@
   {
     "title": "Miltonia regnellii",
     "url": "https://www.currlin.com/en/online-shop/produkt/1377-miltonia-regnellii.html",
-    "price": "12,50 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Miltonia_regnell_4cda5a546153a.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Miltonia regnellii",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3415-miltonia-regnelli-m.html",
     "price": "12,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Miltonia_regnell_4cda5a546153a.jpg",
     "description": "flowering size - NOT in spike"

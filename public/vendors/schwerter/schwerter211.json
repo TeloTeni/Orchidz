@@ -1,15 +1,26 @@
 [
 
   {
-    "title": "Phrag. longifolium",
+    "title": "Phrag. kovachii x besseae",
     "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=41&products_id=4932&osCsid=o45of6fnkaddlt1j520qb3lq67",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/bbbbbb/pa/phragmipedium%20longifolium.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=41&products_id=6994",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/bbbbbb/pa/phragmipedium%20kovachii.jpg"
+  },
+  {
+    "title": "Phrag. longifolium x (pearcei x wallisii)",
+    "price": "19.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=41&products_id=2205",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/bbbbbb/pa/longifolium%20x%20(pearcei%20x%20walisii)1.jpg"
   },
   {
     "title": "Phrag. pearcei x wallisii",
     "price": "29.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=41&products_id=3405&osCsid=o45of6fnkaddlt1j520qb3lq67",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=41&products_id=3405",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/bbbbbb/pa/phrag.%20pearcei-1.jpg"
+  },
+  {
+    "title": "Dendrobium linguella",
+    "price": "12.95 EUR  7.00 €",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/bbbbbb/na/den.%20linguella1.jpg"
   }
 ]

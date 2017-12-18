@@ -1,79 +1,48 @@
-//draft
 var keystone = require('keystone');
 var fs = require('fs');
 
-
-
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
-// var vendors = ['Reollke', 'Schwerter', 'OrchClub'];
 
 var locals = res.locals;
 // // locals.section is for nav menu
 // locals.section = 'addproducts';
 var vendor;
 var vendorLow;
-var country = "Germany";
-//console.log(vendorLow);;
-var qfiles;
-var dataAll = [];
-
 
 view.on('post', function(next){
   vendor = req.body.vendor;
   vendorLow = vendor.toLowerCase();
+  console.log(vendorLow);
 
-  function getDir(path,callback){
-  fs.readdir(path, function(err, content){
-    callback(null, content)
-    });
-  };
+var file = './public/vendorsFull/' + vendorLow + 'AllFull.json';
+      console.log(file);
 
-  getDir('./public/vendors/' + vendorLow, function(err, content){
-    qfiles = content;
-    console.log('in getDir ' + qfiles.length);
-
-    var data = [];
-    for (item in qfiles){
-      var dir = './public/vendors/' + vendorLow + '/' + qfiles[item];
-      console.log(dir);
-
-      data = JSON.parse(fs.readFileSync(dir, 'utf8'));
+      data = JSON.parse(fs.readFileSync(file, 'utf8'));
       console.log('data parsed');
 
-      dataAll = dataAll.concat(data);
-    };
-    fs.writeFile('./public/vendors/'+ vendorLow + 'All.json', JSON.stringify(dataAll, null, 2));
-    console.log("to Json");
-});
 
+console.log('Items: ' + data.length);
+  var dataCorrupted = [];
+  var itemCorrupted = 0;
+  var itemDB;
 
-
-// console.log('Itemes:' + dataAll.length);
-//   var dataCorrupted = [];
-//   var itemCorrupted = 0;
-//   var itemDB;
-//   console.log('dataCorrupted is ' + dataCorrupted);
-//
-//     var Product = keystone.list('Product');
-//     for (var item = 0; item < dataAll.length; item++){
-//       //don't add to db products with no title - if
-//       if(dataAll[item].title){
-//     dataAll[item].vendor = vendor;
-//     dataAll[item].country = country;
-//     addProducts = new Product.model(dataAll[item]); //was new Product.model(item)
-//     addProducts.save().catch(function(err){
-//         console.log(err.message);
-//       });
-//     }else{
-//       dataCorrupted = dataCorrupted.concat(dataAll[item]);
-//       itemCorrupted = ++itemCorrupted;
-//
-//     };
-//    };
-//    itemDB = item - itemCorrupted;
-// console.log( 'Result: All ' + item + ' products of ' + vendor + ' And ' + itemDB + ' added to DB');
-// // file for corrupted itemes
+  var Product = keystone.list('Product');
+    for (var item = 0; item < data.length; item++){
+      //don't add to db products with no title - if
+      //if(data[item].title){
+        addProducts = new Product.model(data[item]); //was new Product.model(item)
+        addProducts.save().catch(function(err){
+        console.log(err.message);
+        });
+      // }else{
+      //   dataCorrupted = dataCorrupted.concat(data[item]);
+      //   itemCorrupted = ++itemCorrupted;
+      // };
+   };
+// itemDB = item - itemCorrupted;
+console.log( 'Result: All ' + item + ' products of ' + vendor + ' added to DB');
+// file for corrupted itemes
 // fs.writeFile('./public/vendors/'+ vendorLow + 'Corr.json', JSON.stringify(dataCorrupted, null, 2));
 
 

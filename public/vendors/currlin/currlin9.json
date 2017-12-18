@@ -120,13 +120,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Chiloschista species",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2810-chiloschista-species.html",
-    "price": "16,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Chiloschista_yun_4cc9a145be4f9.jpg",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Chysis bractescens",
     "url": "https://www.currlin.com/en/online-shop/produkt/1288-chysis-bractescens.html",
     "price": "19,50 €",
@@ -138,6 +131,13 @@
     "url": "https://www.currlin.com/en/online-shop/produkt/2803-chysis-sedenii.html",
     "price": "19,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/chysis_sedenii_currlin_orchideen.jpg",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Chytroglossa aurata",
+    "url": "https://www.currlin.com/en/online-shop/produkt/1879-chytroglossa-aurata.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Chytroglossa_aur_4e96e3cda7fae.jpg",
     "description": "flowering size - NOT in spike"
   },
   {
@@ -212,13 +212,6 @@
     "description": "flowering size - NOT in spike"
   },
   {
-    "title": "Coelogyne pandurata",
-    "url": "https://www.currlin.com/en/online-shop/produkt/2116-coelogyne-pandurata.html",
-    "price": "23,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size - NOT in spike"
-  },
-  {
     "title": "Coelogyne pulverula",
     "url": "https://www.currlin.com/en/online-shop/produkt/1297-coelogyne-pulverula.html",
     "price": "19,50 €",
@@ -250,6 +243,13 @@
     "title": "Coelogyne trinervis",
     "url": "https://www.currlin.com/en/online-shop/produkt/2319-coelogyne-trinervis.html",
     "price": "23,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Coelogyne usitana",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3286-coelogyne-usitana.html",
+    "price": "17,50 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size - NOT in spike"
   },
@@ -303,6 +303,13 @@
     "description": "flowering size - NOT in spike"
   },
   {
+    "title": "Dendrobium brymerianum",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3595-dendrobium-brymerianum.html",
+    "price": "15,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size in 1 year"
+  },
+  {
     "title": "Dendrobium catenatum",
     "url": "https://www.currlin.com/en/online-shop/produkt/2875-dendrobium-catenatum.html",
     "price": "16,00 €",
@@ -343,21 +350,14 @@
     "price": "23,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/dendrobium_gatton_sunray_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  },
+  }
+,
   {
     "title": "Dendrobium intricatum",
     "url": "https://www.currlin.com/en/online-shop/produkt/2808-dendrobium-intricatum.html",
     "price": "15,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
     "description": "flowering size in 1 year"
-  }
-,
-  {
-    "title": "Dendrobium lawesii",
-    "url": "https://www.currlin.com/en/online-shop/produkt/1612-dendrobium-lawesii.html",
-    "price": "23,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/Dendrobium_lawes_4cdafb857f429.jpg",
-    "description": "flowering size - NOT in spike"
   },
   {
     "title": "Dendrobium lichenastrum",
@@ -386,6 +386,13 @@
     "price": "16,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/dendrobium_linguiforme_var__nugentii_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
+  },
+  {
+    "title": "Dendrobium tiongii",
+    "url": "https://www.currlin.com/en/online-shop/produkt/3592-dendrobium-tiongii.html",
+    "price": "16,00 €",
+    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
+    "description": "flowering size in 1 year"
   },
   {
     "title": "Dendrobium trantuanii",
@@ -477,13 +484,6 @@
     "price": "18,00 €",
     "image": "https://www.currlin.com/media/com_hikashop/upload/thumbnail_100x120/dendrochilum_yuccifolium_currlin_orchideen.jpg",
     "description": "flowering size - NOT in spike"
-  },
-  {
-    "title": "Dimorphorchis lowii",
-    "url": "https://www.currlin.com/en/online-shop/produkt/3483-dimorphorchis-lowii.html",
-    "price": "25,00 €",
-    "image": "https://www.currlin.com/media/com_hikashop/images/thumbnail_100x120/barcode.png",
-    "description": "flowering size in 2 years"
   },
   {
     "title": "Maxillaria densa",

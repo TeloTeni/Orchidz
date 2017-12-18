@@ -43,13 +43,6 @@
     "description": "Orchi-Pack"
   },
   {
-    "title": "Bulbophyllum dearei OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/508",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-bulbophyllum-dearei-00.jpg",
-    "price": "7,80 €",
-    "description": "Orchi-Pack"
-  },
-  {
     "title": "Bulbophyllum frostii OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2281",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-bulbophyllum-frostii.jpg",
@@ -60,13 +53,6 @@
     "title": "Bulbophyllum graveolens OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/1205",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_bulb-bulbophyllum-graveolens-001.jpg",
-    "price": "7,80 €",
-    "description": "Orchi-Pack"
-  },
-  {
-    "title": "Cattleya aurantiaca OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/1612",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-cattleya-aurantiaca1.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
   },
@@ -83,8 +69,7 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-cattleya-guttata.jpg",
     "price": "7,90 €",
     "description": "Orchi-Pack"
-  }
-,
+  },
   {
     "title": "Cattleya intermedia var. alba OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/1331",
@@ -98,7 +83,8 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-cattleya-lueddemanniana.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
-  },
+  }
+,
   {
     "title": "Cirrhopetalum longissimum OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2149",
@@ -114,13 +100,6 @@
     "description": "Orchi-Pack"
   },
   {
-    "title": "Dendrobium griffithianum OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2282",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_den-dendrobium-griffithianum-02.jpg",
-    "price": "7,80 €",
-    "description": "Orchi-Pack"
-  },
-  {
     "title": "Dtps. Baldan's Kaleidoskop x Taida Salu OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2615",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_phal-baldans-kaleidoskop-taida-salu.jpg",
@@ -128,16 +107,16 @@
     "description": "Orchi-Pack"
   },
   {
-    "title": "Laelia pumila OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2820",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-laelia-pumila.jpg",
+    "title": "Epidendrum stamfordianum OP",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2903",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-epidendrum-stamfordianum-01.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
   },
   {
-    "title": "Laelia tenebrosa OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2112",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-laelia-tenebrosa.jpg",
+    "title": "Laelia pumila OP",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2820",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-laelia-pumila.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
   },
@@ -168,8 +147,7 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_son-oncidium-incurvum.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
-  }
-,
+  },
   {
     "title": "Paph. Senne Calle OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2286",
@@ -185,19 +163,13 @@
     "description": "Orchi-Pack"
   },
   {
-    "title": "Paphiopedilum dayanum OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2823",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_paph-paphiopedilum-dayanum-01.jpg",
-    "price": "7,80 €",
-    "description": "Orchi-Pack"
-  },
-  {
     "title": "Paphiopedilum glaucophyllum OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2152",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_paph-paphiopedilum-glaucophyllum-01.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
-  },
+  }
+,
   {
     "title": "Paphiopedilum primulinum OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/670",
@@ -216,13 +188,6 @@
     "title": "Phal. Minho Princess x Big Chili OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2829",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_phal-minho-princess-big-chili.jpg",
-    "price": "7,80 €",
-    "description": "Orchi-Pack"
-  },
-  {
-    "title": "Phalaenopsis amboinensis var. Simanis OP",
-    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/840",
-    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_phal-phalaenopsis-amboinensis-simanis.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
   },
@@ -253,12 +218,18 @@
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_afri-polystachya-virginea.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
-  }
-,
+  },
   {
     "title": "Renanthera monachica OP",
     "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2775",
     "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_son-renanthera-monachica-00.jpg",
+    "price": "7,80 €",
+    "description": "Orchi-Pack"
+  },
+  {
+    "title": "Slc. (Slc. Tutankhamen x L. purpurata) OP",
+    "url": "https://www.roellke-orchideen.de/index.php/en/online-shop/orchi-pack/product/view/3/2904",
+    "image": "https://www.roellke-orchideen.de/components/com_jshopping/files/img_products/thumb_cat-slc-slc-tutankamen-l-purpurata.jpg",
     "price": "7,80 €",
     "description": "Orchi-Pack"
   },

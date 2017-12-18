@@ -1,71 +1,88 @@
 [
 
   {
-    "title": "Brassavola cordata",
-    "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4429&osCsid=4ojtfkihrqddcrduq4091716h5",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/brassavola%20cordata-5.jpg"
+    "title": "Bc. Golf Green Hairy Pig",
+    "price": "24.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=3701",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/bc.%20golf%20green%20(c.moscombe%20x%20b.digbyana).jpg"
   },
   {
-    "title": "Cattleya amethystoglossa",
+    "title": "Brassavola flagellaris - aufgebunden",
     "price": "17.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6311&osCsid=4ojtfkihrqddcrduq4091716h5",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20amethystoglossa.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=1335",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/brassavola%20flagellaris-2.jpg"
   },
   {
-    "title": "Cattleya elongata",
+    "title": "Cattleya aclandiae",
+    "price": "12.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=5483",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20aclandiae.jpg"
+  },
+  {
+    "title": "Cattleya bicolor",
     "price": "9.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6917&osCsid=4ojtfkihrqddcrduq4091716h5",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20elongata.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4444",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20bicolor.jpg"
   },
   {
     "title": "Cattleya intermedia var. irorata",
     "price": "14.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6314&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6314",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/ca.%20intermedia%20irorata1.jpg"
   },
   {
     "title": "Cattleya jenmanii",
     "price": "9.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4465&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4465",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20jenmanii.jpg"
   },
   {
     "title": "Cattleya leopoldii",
     "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4745&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4745",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20leopoldii.jpg"
   },
   {
     "title": "Cattleya loddigesii var. alba",
     "price": "14.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6317&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6317",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/c.%20loddigesii%20alba(ca0000).jpg"
   },
   {
     "title": "Cattleya maxima semialba Pedrena",
     "price": "9.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=5644&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=5644",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20maxima%20alba%20la%20pedrena.jpg"
   },
   {
     "title": "Cattleya perrinii",
     "price": "12.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6327&osCsid=4ojtfkihrqddcrduq4091716h5",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6327",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20perrinii-2.jpg"
   },
   {
-    "title": "Cattleya skinneri",
-    "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=2216&osCsid=4ojtfkihrqddcrduq4091716h5",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20skinneri.jpg"
+    "title": "Den. subclausum x violaceum",
+    "price": "12.95 EUR  7.00 €",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/so/den.%20subclausum%20x%20violaceum.jpg"
   }
 ,
   {
-    "title": "Cattleya velutina",
+    "title": "Cattleya schilleriana Imperialis",
     "price": "9.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=5254&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20velutina.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=7022&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20schilleriana%20imperialis.jpg"
+  },
+  {
+    "title": "Cattleya skinneri alba",
+    "price": "24.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6329&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/c.%20skinnery%20alba(ca0147).jpg"
+  },
+  {
+    "title": "Cattleya violacea rosea Dark Lip",
+    "price": "9.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6474&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/cattleya%20violacea-2.jpg"
   },
   {
     "title": "Laelia anceps var. semi alba",
@@ -74,45 +91,44 @@
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/l.anceps%20v.semi-alba.jpg"
   },
   {
-    "title": "Laelia grandis",
-    "price": "9.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4632&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20grandis.jpg"
-  },
-  {
     "title": "Laelia jongheana",
     "price": "12.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6853&page=2&sort=2a",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4409&page=2&sort=2a",
     "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20jongheana.jpg"
   },
   {
-    "title": "Laelia purpurata",
+    "title": "Laelia pumila",
+    "price": "9.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4447&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20pumila.jpg"
+  },
+  {
+    "title": "Laelia purpurata Blue Violet",
+    "price": "24.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6703&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata%20blue%20violet-2.jpg"
+  },
+  {
+    "title": "Laelia purpurata var. carnea",
     "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=2199&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=3080&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata%20var%20carnea.jpg"
   },
   {
-    "title": "Laelia purpurata var. alba",
-    "price": "29.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=3078&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata%20alba.jpg"
-  },
-  {
-    "title": "Laelia purpurata var. werkhauseri",
+    "title": "Laelia purpurata x Ca. gigas",
     "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4189&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata%20var.%20werkhauseri-1.jpg"
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=3429&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20purpurata%20x%20brassovola%20cucullata.jpg"
   },
   {
-    "title": "Laelia rubescens auf Holz",
-    "price": "19.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=6086&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20rubescens.jpg"
+    "title": "Laelia sincorana x alaorii",
+    "price": "12.95 €",
+    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4990&page=2&sort=2a",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/l.%20sincorana%20x%20alaorii.jpg"
   },
   {
-    "title": "Laelia tenebrosa aurea",
-    "price": "14.95 €",
-    "url": "http://www.shop.schwerter-orchideenzucht.de/product_info.php?cPath=21_39&products_id=4010&page=2&sort=2a",
-    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/ca/laelia%20tenebrosa%20aurea.jpg"
+    "title": "Den. subclausum x violaceum",
+    "price": "12.95 EUR  7.00 €",
+    "image": "http://www.shop.schwerter-orchideenzucht.de/images/thumbnails/125/100/eeeeee/so/den.%20subclausum%20x%20violaceum.jpg"
   }
 ]

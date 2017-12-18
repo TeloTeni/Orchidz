@@ -5821,6 +5821,15 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
+.bg-blend {
+  background-image: url(orchid-stem_sm.jpg);
+  background-color: red;
+  background-blend-mode: multiply; }
+
+body {
+  background-image: url("circles-light.png");
+  background-repeat: repeat-x; }
+
 #header {
   margin-top: 30px; }
 
@@ -5834,3 +5843,6 @@ button.close {
   display: block;
   max-width: 100%;
   height: auto; }
+
+h1 {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px white; }
